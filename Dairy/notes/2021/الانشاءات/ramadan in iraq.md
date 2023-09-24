@@ -1,0 +1,7 @@
+# Ramadan 
+ Dear Ali 
+ Thak you for your e-mail. You have asked me about the traditions of Ramadan  in Iraq . Ramadan is 9th month in Islamic calender (al Hijri) in whic Muslims fast in it from dawn to sunset and they must not  have food during the day until the sunset.
+ 
+ Muslims prepare different kinds of foods for the main meal which they call `IFtar`, that they eat after they stop fasting. People havetraditional dishes In `Iftar` as they like to make lentil soup and buy yogurt and dates   and these items are considered to be the main items on the table . there also alot more delicious tasty kinds of food like beef , chicken , lamb and rice stews . Plus the pastries and sweets that also there.  Ramadan is Occasion for family union as relatives come to visit  more often.
+ 
+ While it may be  seem that Ramadan is a month that Muslims does not eat in only , it also show the person patience as they have to hold themself from foods,drinks and any thing that could hurt their fasting from talking bad about someone to Hurting other people physically . It also a way for asking for forgiveness  from god for the sins that they have made as they feel others in need and  help them also they stay up in the night just praying for God . After Ramadan ends comes Eid Al Fiter which celebrates the return of life to nomral state. 

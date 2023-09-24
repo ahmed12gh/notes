@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "44e5b702dbc41988",
+    "type": "split",
+    "children": [
+      {
+        "id": "32bf8095db22581a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "978371bdb2ba8704",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/notes/2022/نيسان 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "303c0a2b1a76a492",
+    "type": "split",
+    "children": [
+      {
+        "id": "47e43f05a7eb49d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "521b2f629875a4fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b88064720a67b78c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "395bc0fd977089ad",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "9b131ea66288d05f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f940fbaabe0a9780",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fd282ea47ad8983d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Personal/notes/2022/نيسان 4.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2605147efd26c93b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Personal/notes/2022/نيسان 4.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0d4389f28f5130eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "76968a79dfa46573",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Personal/notes/2022/نيسان 4.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "521b2f629875a4fc",
+  "lastOpenFiles": [
+    "Personal/People/strangers/ابو زيد.md",
+    "Personal/People/strangers/ابو ليث ,  ق د.حسام.md",
+    "Personal/notes/2022/شباط 2.md",
+    "Personal/notes/2022/حزيران و تموز 6,7.md",
+    "Accunts & Passwords/Ali cousin.md",
+    "Personal/Accounts & Passwords/passwords.canvas",
+    "Personal/notes/2022/اذار 3.md",
+    "Personal/notes/2023/francais.md",
+    "Personal/Todo/المهام.md",
+    "Personal/Todo/Table.md"
+  ]
+}
