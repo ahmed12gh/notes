@@ -1,4 +1,5 @@
-# List of Detective  Conan Most Important EPs. 
+# List of Detective Conan Most Important EPs. 
+
 - 1-2 (manga 1-5|V1F1-5): Initial setup. The main characters Edogawa Conan/Kudō Shinichi, Mōri Ran and Kogorō, Professor Agasa, Inspector Megure, Gin, and Vodka all get their introductions, among many other things. *Main Plot*
 - 3 : Character development and some elements introduced for the first time.
 - 4 (manga 36-39|V4F7-10): Mitsuhiko, Ayumi, and Genta’s first focus episode.
@@ -23,6 +24,7 @@
 - 81-82  : Voice actor references galore.
 - 96  : Main character development. (2 Hour Special)
 - ==movie 1: the time-bombed skyscraper==
+
 ## 100 - 200    
 - 100-101  : Shinichi case. Main character development.
 - 118  : Heiji case. Introduces Tōyama Kazuha. Builds on the Conan development throughline from 11 and 77-79. (1 Hour Special)
@@ -44,6 +46,7 @@
 - ==movie 3: the last wizard of the century==
 - 188-193  (manga 251-260|V25F9-V26F7): “The Desperate Revival” *Main Plot*
 - 199-200  : Character development.
+
 ## 200 - 300     
 - 205-206  : “Metropolitan Police Detective Love Story 3”
 - 212-213  : Haibara development.
@@ -71,6 +74,7 @@
 - 286-288  : “Kudō Shinichi’s New York Case”—Extremely important Shūichi, among other things. *Main Plot*
 - 289-290  : Some Black Organization info. *Main Plot*
 - 291-293  : Heiji case.
+
 ## 300 - 400
 - 301,302,304  : Satō and Takagi development. (304 is 2 Hour Special)
 - 307-308  : Buildup. *Main Plot*
@@ -97,6 +101,8 @@
 - 390-391  : “Metropolitan Police Detective Love Story 6”
 - 394-396  : Kaitō Kid.
 - 398-399  : Some setup and building suspense.
+
+
 ## 400 - 500 
 - 400  : Major character development. *Main Plot*
 - 406-408  : Heiji case.
@@ -117,12 +123,14 @@
 - 490  : Heiji case. 
 - 491-504  : “Clash of Red and Black”—By far the longest Black Organization arc to date. *Main Plot*
 - Movie 11: Jolly Roger in the Deep Azure
+
+
 ## 500 - 600 
 - 507-508  : Eisuke development. *Main Plot*
 - 509-511  : Introduces Okiya Subaru (awesome to the max). Also, some Black Organization info. *Main Plot*
 - Magic Kaito 1412 ep. 21: Crossover with Detective Conan 515. Lots of repitition between the two, so watch whichever you like more first.
 - 515  : Kaitō Kid. (1 Hour Special)
-- 521-525  : Shinichi case. Major development for the main characters, and Heiji is part of it this time. (521 and 522 are 1 Hour Specials) *Main Plot*
+- ==521-525  : Shinichi case. Major development for the main characters, and Heiji is part of it this time. (521 and 522 are 1 Hour Specials) *Main Plot*==
 - 532-535  : Development for Superintendent Matsumoto, Takagi, and Satō.
 - 537-538  : Kaitō Kid.
 - 542-543  : Subaru development. *Main Plot*
@@ -135,6 +143,8 @@
 - 583-585  : Inspector Shiratori and Kobayashi-sensei development.
 - 586-587  : Kaitō Kid.
 - 592-593  : Ran development.
+
+
 ## 600 - 700 
 - 610-613  : Heiji case.
 - 616-621  : “Holmes’ Revelation”—Major development for the main characters. *Main Plot*
@@ -160,6 +170,8 @@
 - Movie 16: The Eleventh Striker
 - 699-700  : Haibara and Sera development with a bit of important Subaru and Amuro. Build up for the following big event. *Main Plot*
 - 701-704  : “The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid _at the same time_. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro. *Main Plot*
+
+
 ## 700 - 800
 - 705-706  : Some followup with some plan details and Amuro. *Main Plot*
 - 710-715  : Heiji case.
@@ -184,6 +196,7 @@
 - 787-788  : Some Sera and Sera’s outside sister development. *Main Plot*
 - 792-793  : Some Black Organization info. *Main Plot*
 
+
 ## 800 -  900 
 - 808-809  : Heiji case.
 - 810-812  : Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi. *Main Plot*
@@ -207,11 +220,13 @@
 - 889-890  : Introduces Wakasa Rumi. *Main Plot*
 - 894-895  : Introduces Wakita Kanenori. *Main Plot*
 - 896-897  : Rumi-sensei development. *Main Plot*
+
 ## 900 - 1000 
 - 909-910  : Kuroda and Rumi-sensei development. *Main Plot*
 - 916-917  : Heiji case.
 - Movie 21: The Crimson Love Letter
     Note unlike past movies which are entirely optional in every way, this one is reasonably necessary if you’re following the Heiji/Kazuha plotline, but otherwise still unnecessary if you’re not. That said, there are some minor aspects of the Scarlet School Trip case that will not make sense if you skipped this one.
+
 - 919-920,925-926  : Setup. Slight Amuro development.
 - 927-928  : “Scarlet School Trip”—Shinichi case. Main character development. Also some Sera Masumi and Mary development.  *Main Plot*
 - 941-942  : Followup from the previous case. Some slight Kuroda, Rumi-sensei, and Wakita development. Black Organization development. *Main Plot*
@@ -220,6 +235,7 @@
 - 971-974  : Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background. *Main Plot*
 - 983-984  : Heiji case, Kaitō Kid, Morofushi development, Amuro development, and Hiromitsu development. *Main Plot*
 - 993-995  : Sera Masumi development. Also, Makoto is around. *Main Plot*
+
 ## 1000 - 1100 
 - 1003-1005  : Hiromitsu and Wakita development.
 - Movie 23: The Fist of Blue Sapphire
