@@ -13,7 +13,6 @@ Hippocrates  referred the repetition of certain human qualities such as ==Crosse
 
 # Mendel  Genetics  
  *Mendel* began to hold experiments on ==Pisum sativum== .
-********
 Some properties of living things used in genetics experiments It has become known that studies in genetics depend on the ==design of experiments and analysis of results==. This was for the purpose of extracting certain hypothesis about how to move different qualities. Here are some considerations that need to be taken into account when using a particular object for
 **The Purpose of conducting genetic studies**
 
