@@ -1,5 +1,5 @@
 
-Hippocrates  referred the repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**). 
+Hippocrates  referred the, repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**). 
 ![[Pasted image 20230917042848.png]]
 
 # DNA 
