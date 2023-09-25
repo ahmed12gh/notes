@@ -22,3 +22,30 @@ Some properties of living things used in genetics experiments It has become know
 4. Ability to control fertilization or mating of the object.
 5. Easy upbringing and maintenance.
 . Ability to produce new structures as a result of sexual reproduction or delivery (Transduction) by viruses.
+
+## Allele
+Alternative form of a gene. One of the different forms of a gene that can exist at a single ==locus.==
+
+## Genes
+Is a ==sequence== of DNA that has a specific function, e.g.:
+1. turning the genetic code to a protein 
+2. controlling the expression of character
+
+can prove itself through ==contrast== ==alleles==.
+
+## Gene Expression
+It is the process of using DNA information by cells in the ==manufacturing== of a particular protein.
+
+## Genotype
+It reflects the composition or structure of the genetic of individual. It expresses the genetic codes together in a particular individual
+
+## Phenotype or phenotypic category:
+It refers to the properties or observed signs of the organism which is genetically controlled. 
+e.g., stem length and stem shortness in Pisum Sativum 
+
+plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of dominant and recessive traits we can tell about phenotype for the individual from the geno- type. 
+e.g. ==TT== and ==Tt== refer to the long stem and ==tt== refers to the short leg. 
+
+When the individual carries genetic factors such as symmetric ==TT== or ==tt== it is said that the individuals are **homogeneous** or **pure (Homozygous)**. 
+
+When the individual carries a genetic model which are not symmetric factors such as ==Tt==, it is said that the individual is **heterogeneous** or **hybrid** **(Heterozygous)** . 

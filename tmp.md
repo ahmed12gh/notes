@@ -150,7 +150,7 @@
 - 616-621  : “Holmes’ Revelation”—Major development for the main characters. *Main Plot*
 - 622-623  : Haibara and Subaru development. *Main Plot*
 - 624  : Introduces Miike Naeko.
-- Magic Kaito 1412 eps. 9-11: Lead-in to Detective Conan 627-628 followed by those episodes from Kid’s perspective. Regardless of how some of the other crossovers may be, this one is entirely meant for Magic Kaito to come before Detective Conan. The manga chapters these were based on were actually released as a lead-in to the Detective Conan manga chapters the Detective Conan anime episodes were based on, and that makes a lot less sense without this lead-in.
+> Magic Kaito 1412 eps. 9-11: Lead-in to Detective Conan 627-628 followed by those episodes from Kid’s perspective. Regardless of how some of the other crossovers may be, this one is entirely meant for Magic Kaito to come before Detective Conan. The manga chapters these were based on were actually released as a lead-in to the Detective Conan manga chapters the Detective Conan anime episodes were based on, and that makes a lot less sense without this lead-in.
 - 627-628  : Kaitō Kid.
 - Magic Kaito 1412 eps. 3, 7, 8, 12-15, 17-20, 22-24 can be watched whenever you want.
 - Movie 14: The Lost Ship in the Sky
