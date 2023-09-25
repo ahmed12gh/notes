@@ -43,7 +43,7 @@ It reflects the composition or structure of the genetic of individual. It expres
 It refers to the properties or observed signs of the organism which is genetically controlled. 
 e.g., stem length and stem shortness in Pisum Sativum 
 
-plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of dominant and recessive traits we can tell about phenotype for the individual from the geno- type. 
+plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of ==dominant== and ==recessive== traits we can tell about **phenotype** for the individual from the geno- type. 
 e.g. ==TT== and ==Tt== refer to the long stem and ==tt== refers to the short leg. 
 
 When the individual carries genetic factors such as symmetric ==TT== or ==tt== it is said that the individuals are **homogeneous** or **pure (Homozygous)**. 
