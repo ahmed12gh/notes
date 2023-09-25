@@ -142,7 +142,7 @@
 - 578-581  : Subaru and Jodie development, and some Black Organization activity. *Main Plot*
 - 583-585  : Inspector Shiratori and Kobayashi-sensei development.
 - 586-587  : Kaitō Kid.
-- 592-593  : Ran development.
+- ==592-593==  : Ran development.
 
 
 ## 600 - 700 
