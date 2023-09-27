@@ -24,7 +24,7 @@ Some properties of living things used in genetics experiments It has become know
 . Ability to produce new structures as a result of sexual reproduction or delivery (Transduction) by viruses.
 
 ## Allele
-Alternative form of a gene. One of the different forms of a gene that can exist at a single ==locus.==
+Alternative form of a gene. One of the different forms of a gene that can exist at a single ==locus.==. each chromatid of chromosome have one allele of a specific trait that is each chromosome have 2 alleles 1 from each parent.
 
 ## Genes
 Is a ==sequence== of DNA that has a specific function, e.g.:
@@ -37,10 +37,10 @@ can prove itself through ==contrast== ==alleles==.
 It is the process of using DNA information by cells in the ==manufacturing== of a particular protein.
 
 ## Genotype
-It reflects the composition or structure of the genetic of individual. It expresses the genetic codes together in a particular individual
+It reflects the composition or structure of the genetic of individual. It expresses the genetic codes together in a particular individual. it refers to the complete set of genes without relating to physical properties, as same phenotypes can result from different genotypes.
 
 ## Phenotype or phenotypic category:
-It refers to the properties or observed signs of the organism which is genetically controlled. 
+It refers to the properties or ==observed signs of the organism== which is genetically controlled. 
 e.g., stem length and stem shortness in Pisum Sativum 
 
 plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of ==dominant== and ==recessive== traits we can tell about **phenotype** for the individual from the geno- type. 
