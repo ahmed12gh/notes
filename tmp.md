@@ -159,7 +159,7 @@
 - *Movie* 15: Quarter of Silence
 - 651  : Heiji case. Also some Sera development.  *Main Plot*
 - 652-655  : Heiji case. Introduces Yonehara Sakurako.
-- 656-657  : Sera and Subaru development. *Main Plot*
+- **656-657  : Sera and Subaru development. *Main Plot***
 - 659-660  : Detective Chiba and Miike development.
 - 667-668  : Introduces Amuro Tōru. *Main Plot*
 - 671-674  : “Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization. *Main Plot*
