@@ -1,12 +1,13 @@
 
-Hippocrates  referred the, repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**).![Pasted image 20230917042848](Resources/Pasted%20image%2020230917042848.png)
+Hippocrates  referred the, repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**).
+![Pasted image 20230917042848](Resources/Pasted%20image%2020230917042848.png)
+
 # DNA 
 - **DNA** has ability to be transported from one organism to another by some **viruses** and **plasmids** . [^1]
+- it has ability to replicate inside a cell naturally and also outside, through the use of ==Polymerase Chain Reaction== (PCR).
+- It has ability to **modulate** the recipient cell functions.
 
 [^1]:  A **plasmid** is a small DNA molecule that is physically separate form, and can replicate independently of, chromosomal DNA within a cell.
-
-- it has ability to replicate inside a cell naturally and also outside, through the use of ==Polymerase Chain Reaction== (PCR).
-- It has ability to modulate the recipient cell functions.
 
 # Mendel  Genetics  
  *Mendel* began to hold experiments on ==Pisum sativum== .
@@ -40,6 +41,7 @@ It refers to the properties or **observed signs of the organism** which is genet
 e.g., stem length and stem shortness in **Pisum Sativum** 
 
 plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of ==dominant== and ==recessive== traits we can tell about **phenotype** for the individual from the genotype. 
+
 e.g. ==TT== and ==Tt== refer to the long stem and ==tt== refers to the short leg. 
 
 When the individual carries genetic factors such as symmetric ==TT== or ==tt== it is said that the individuals are **homogeneous** or **pure (Homozygous)**. 
