@@ -1,7 +1,6 @@
 
 Hippocrates  referred the, repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**).
-![Pasted image 20230917042848](Resources/Pasted%20image%2020230917042848.png)
-
+![[Resources/Pasted image 20230917042848.png]]
 # DNA 
 - **DNA** has ability to be transported from one organism to another by some **viruses** and **plasmids** . [^1]
 - it has ability to replicate inside a cell naturally and also outside, through the use of ==Polymerase Chain Reaction== (PCR).
