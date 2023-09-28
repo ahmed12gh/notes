@@ -24,12 +24,11 @@ Some properties of living things used in genetics experiments It has become know
 . Ability to produce new structures as a result of sexual reproduction or delivery (Transduction) by viruses.
 
 ## Allele
-Alternative form of a gene. One of the different forms of a gene that can exist at a single ==locus.==. each chromatid of chromosome have one allele of a specific trait that is each chromosome have 2 alleles 1 from each parent.
-
+Alternative form of a gene. One of the different forms of a gene that can exist at a single ==locus.==. each chromatid of chromosome have one allele of a specific trait that is each chromosome have 2 alleles 1 from each parent. In mendalian Genetices ==TT==,==Tt==,==tt==  all represent two alleles.
 ## Genes
-Is a ==sequence== of DNA that has a specific function, e.g.:
-1. turning the genetic code to a protein 
-2. controlling the expression of character
+Is a ==sequence== of DNA that has a specific function, e.g:
+- turning the genetic code to a protein 
+- controlling the expression of character
 
 can prove itself through ==contrast== ==alleles==.
 
@@ -37,15 +36,19 @@ can prove itself through ==contrast== ==alleles==.
 It is the process of using DNA information by cells in the ==manufacturing== of a particular protein.
 
 ## Genotype
-It reflects the composition or structure of the genetic of individual. It expresses the genetic codes together in a particular individual. it refers to the complete set of genes without relating to physical properties, as same phenotypes can result from different genotypes.
+It reflects the composition or structure of the genetic of individual. It expresses the genetic codes together in a particular individual. it refers to the complete set of genes without relating to physical properties, as same phenotypes can result from different genotypes.E.g. **AB** and **Bo** or even **oo** are all genetypes 
 
 ## Phenotype or phenotypic category:
-It refers to the properties or ==observed signs of the organism== which is genetically controlled. 
-e.g., stem length and stem shortness in Pisum Sativum 
+It refers to the properties or **observed signs of the organism** which is genetically controlled. 
+e.g., stem length and stem shortness in **Pisum Sativum** 
 
-plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of ==dominant== and ==recessive== traits we can tell about **phenotype** for the individual from the geno- type. 
+plant referred to as expressions of natural information. These are available in the genetic factors. By following the principles of ==dominant== and ==recessive== traits we can tell about **phenotype** for the individual from the genotype. 
 e.g. ==TT== and ==Tt== refer to the long stem and ==tt== refers to the short leg. 
 
 When the individual carries genetic factors such as symmetric ==TT== or ==tt== it is said that the individuals are **homogeneous** or **pure (Homozygous)**. 
 
 When the individual carries a genetic model which are not symmetric factors such as ==Tt==, it is said that the individual is **heterogeneous** or **hybrid** **(Heterozygous)** . 
+
+### Types of relations between dominant traits 
+- co-dominant 
+- blend 
