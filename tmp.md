@@ -161,18 +161,17 @@
 - 652-655  : Heiji case. Introduces Yonehara Sakurako.
 - **656-657  : Sera and Subaru development. *Main Plot***
 - 659-660  : Detective Chiba and Miike development.
-- 667-668  : Introduces Amuro Tōru. *Main Plot*
+- ==667-668  : Introduces Amuro Tōru. *Main Plot*==
 - 671-674  : “Detectives’ Nocturne”—Major development for Subaru, Sera, and Amuro, and some Black Organization. *Main Plot*
-- 675-676  : Some mild Sera development and Black Organization buildup. *Main Plot*
+- 675-676  : Some mild Sera development and **Black Organization buildup**. *Main Plot*
 - 681-683  : “The Life-Threatening Broadcast of Love”—Major development for Satō and Takagi and lesser development for Sera and Amuro. *Main Plot*
 - 684-685  : Haibara and Subaru development. *Main Plot*
 - 690-691  : Subaru, Sera, and Conan’s dad development. *Main Plot*
 - Movie 16: The Eleventh Striker
 - 699-700  : Haibara and Sera development with a bit of important Subaru and Amuro. Build up for the following big event. *Main Plot*
+## 700-800
+
 - 701-704  : “The Pitch Black Mystery Train”—Big Black Organization event AND Kaitō Kid _at the same time_. If that is somehow in some universe not enough for you, it has important development of varying degrees for Haibara, Conan’s mom, Shūichi, Subaru, Sera, and Amuro. *Main Plot*
-
-
-## 700 - 800
 - 705-706  : Some followup with some plan details and Amuro. *Main Plot*
 - 710-715  : Heiji case.
 - 722-723  : A bit of Amuro and Subaru development. *Main Plot*
@@ -194,9 +193,6 @@
 - Movie 18: Dimensional Sniper
 - 785-786  : Haneda Shūkichi and Yumi development, plus a bit of Subaru and Sera’s outside sister. *Main Plot*
 - 787-788  : Some Sera and Sera’s outside sister development. *Main Plot*
-- 792-793  : Some Black Organization info. *Main Plot*
-
-
 ## 800 -  900 
 - 808-809  : Heiji case.
 - 810-812  : Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi. *Main Plot*
