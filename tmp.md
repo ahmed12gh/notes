@@ -189,7 +189,7 @@
 - 763-764  : Heiji case.
 - 770-771  : Amuro development. *Main Plot*
 - 772-773  : Shinichi case.
-- 779-783  : The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance. *Main Plot*
+- **779-783**  : The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance. *Main Plot*
 - Movie 18: Dimensional Sniper
 - 785-786  : Haneda Shūkichi and Yumi development, plus a bit of Subaru and Sera’s outside sister. *Main Plot*
 - 787-788  : Some Sera and Sera’s outside sister development. *Main Plot*
