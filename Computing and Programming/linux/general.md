@@ -151,8 +151,9 @@ Increase the font size in gnome **tweaks** and choose the **greyscale antialsing
 
 ### flatpak apps
 Expose the file to flatpak applicatins in the terminal or install **FlatSeal**.
-![[Pasted image 20230816221439.png]]
 `xdg-config/fontconfig:ro`
+
+![[Pasted image 20230816221439.png]]
 
 
 # Increase the Quality of life
@@ -198,3 +199,34 @@ just remove it and install it again for example. `libappindiactor and libdbbusme
 
 ## Useful tricks
 -  to open the file manger as root just type in the headerbar `admin:// ` then the location wanted to open as admin
+
+## History  and What Configuration  I did
+- disbaled Network Manger connectivity check in the config file `/usr/lib/NetworkManager/conf.d/20-connectivity-fedora.conf` 
+```
+   1   │ # Enable connectivity checking for NetworkManager.
+   2   │ # See `man NetworkManager.conf`.
+   3   │ #
+   4   │ # Note that connectivity checking works badly with rp_filter set to
+   5   │ # strict. Check "/proc/sys/net/ipv4/conf/*/rp_filter".
+   6   │ [connectivity]
+   7   │ enabled=false
+   8   │ uri=http://fedoraproject.org/static/hotspot.txt
+   9   │ response=OK
+  10   │ interval=300
+───────┴───────────────────────────────────────────────────
+```
+- Black listed Obsidien from Problem reporting as it was giving false positives config file `/etc/abrt/abrt-action-save-package-data.conf`
+```
+   1   │ # Configuration for the ABRT daemon
+   2   │ # ---------------------------------
+   3   │ #
+   4   │ # This config file is empty by default which means that the preconfigured
+   5   │ # default values will be used by ABRT. If you wish to override the default
+   6   │ # settings, you can do so here.
+   7   │ #
+   8   │ # For details regarding the contents of this file and the defaults, see
+   9   │ # `man 5 abrt-action-save-package-data.conf`.
+  10   │ BlackList = Obsidian
+───────┴──────────────────────────────────────────────────────────────────────────────
+```
+- configed a cpu governor via `cpupower` 

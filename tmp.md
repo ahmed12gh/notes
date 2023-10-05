@@ -192,16 +192,16 @@
 - **779-783**  : The “Scarlet” series. A Black Organization-related series with big development for Amuro, Subaru, and basically all of the FBI characters of any significance. *Main Plot*
 - Movie 18: Dimensional Sniper
 - 785-786  : Haneda Shūkichi and Yumi development, plus a bit of Subaru and Sera’s outside sister. *Main Plot*
-- 787-788  : Some Sera and Sera’s outside sister development. *Main Plot*
+- 787-788  : Some **Sera** and Sera’s outside **sister** development. *Main Plot*
 ## 800 -  900 
 - 808-809  : Heiji case.
 - 810-812  : Introduces Kuroda Hyōe, plus some development for Yamato, Uehara, and Morofushi. *Main Plot*
 - 814-815  : Kuroda development.
 - Movie 19: Sunflowers of Inferno
 - 822-823  : Some Kuroda followup.
-- 827-828  : Sera, Shūkichi, and Sera’s outside sister development. *Main Plot*
+- **827-828**  : Sera, Shūkichi, and Sera’s outside sister development. *Main Plot*
 - 830-832  : Heiji case.
-- 836-837  : Amuro, Sera, and Shūichi development. *Main Plot*
+- **836-837**  : Amuro, Sera, and Shūichi development. *Main Plot*
 - 843-844  : Tiny hints related to Sera’s outside sister.
 - 847-848  : Detective Chiba and Miike development. There is also a lot of random recap for little details from the main plot, in case you need a refresher.
 - 849-850  : Yumi development, plus contains some really important background on Haneda Shūkichi if you look really closely. Also relevant to Shūichi. *Main Plot*
