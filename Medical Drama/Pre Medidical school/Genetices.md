@@ -48,5 +48,7 @@ When the individual carries genetic factors such as symmetric ==TT== or ==tt== i
 When the individual carries a genetic model which are not symmetric factors such as ==Tt==, it is said that the individual is **heterogeneous** or **hybrid** **(Heterozygous)** . 
 
 ### Types of relations between dominant traits 
-- co-dominant 
-- blend 
+- complete dominance : means only one One trait only shows in the phenotype of the organism such as a flower showing red color only ==Rr== .
+- co-dominant : means both dominant  traits from both parents are shown in the offsping  eg. a flowr having blue and red petels ==RB==.
+- Incomplete (blend): in whihch the flower become purple . 
+

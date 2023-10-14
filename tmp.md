@@ -1,4 +1,4 @@
-# List of Detective Conan Most Important EPs. 
+# List of Detective Conan Most Important EPs.
 
 - 1-2 (manga 1-5|V1F1-5): Initial setup. The main characters Edogawa Conan/Kudō Shinichi, Mōri Ran and Kogorō, Professor Agasa, Inspector Megure, Gin, and Vodka all get their introductions, among many other things. *Main Plot*
 - 3 : Character development and some elements introduced for the first time.
@@ -206,7 +206,7 @@
 - 847-848  : Detective Chiba and Miike development. There is also a lot of random recap for little details from the main plot, in case you need a refresher.
 - 849-850  : Yumi development, plus contains some really important background on Haneda Shūkichi if you look really closely. Also relevant to Shūichi. *Main Plot*
 - 853-854  : Shinichi case.
-- 861-864,866,867  : Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development. *Main Plot*
+- 861-864,==866==,867  : Black Organization setup with some Subaru, Amuro, Sera, and Sera’s outside sister development. *Main Plot*
 - Movie 20: The Darkest Nightmare
 - 872-874  : Heiji case. Introduces Ōoka Momiji. Also a very brief follow-up for Ran from episodes 866-867 that doesn’t give any new information nor turn into anything and is ultimately just a handwave, if you’re into that and really can’t wait to see it.
 - 878-879  : Sera development. *Main Plot*
@@ -221,16 +221,15 @@
 - 909-910  : Kuroda and Rumi-sensei development. *Main Plot*
 - 916-917  : Heiji case.
 - Movie 21: The Crimson Love Letter
-    Note unlike past movies which are entirely optional in every way, this one is reasonably necessary if you’re following the Heiji/Kazuha plotline, but otherwise still unnecessary if you’re not. That said, there are some minor aspects of the Scarlet School Trip case that will not make sense if you skipped this one.
-
+> Note unlike past movies which are entirely optional in every way, this one is reasonably necessary if you’re following the Heiji/Kazuha plotline, but otherwise still unnecessary if you’re not. That said, there are some minor aspects of the Scarlet School Trip case that will not make sense if you skipped this one.
 - 919-920,925-926  : Setup. Slight Amuro development.
-- 927-928  : “Scarlet School Trip”—Shinichi case. Main character development. Also some Sera Masumi and Mary development.  *Main Plot*
+- ==927-928==  : “Scarlet School Trip”—Shinichi case. Main character development. Also some Sera Masumi and Mary development.  *Main Plot*
 - 941-942  : Followup from the previous case. Some slight Kuroda, Rumi-sensei, and Wakita development. Black Organization development. *Main Plot*
 - Movie 22: Zero the Enforcer
 - 952-954  : Amuro development. *Main Plot*
 - 971-974  : Detective Chiba and Miike development. Kuroda development. Amuro development. Plus a development for Yumi and Shūkichi in the background. *Main Plot*
 - 983-984  : Heiji case, Kaitō Kid, Morofushi development, Amuro development, and Hiromitsu development. *Main Plot*
-- 993-995  : Sera Masumi development. Also, Makoto is around. *Main Plot*
+- 993-995  : ==Sera Masumi development. Also, Makoto is around. *Main Plot*==
 
 ## 1000 - 1100 
 - 1003-1005  : Hiromitsu and Wakita development.
@@ -243,10 +242,10 @@
 - Movie 24: The Scarlet Bullet
 - 1053-1054  : Rumi development. *Main Plot*
 - 1059-1060  : Wakita development. *Main Plot*
-- 1071-1072  : Kaitō Kid. *Main Plot*
+- ==1071-1072  : Kaitō Kid. *Main Plot*==
 - 1077-1079  : “The Black Organization’s Scheme” *Main Plot*
 - 1085-1086  : Heiji case.
-- Miyano Akemi’s Time Capsule : Haibara and Rumi development. *Main Plot*
+- Miyano Akemi’s Time Capsule : Haibara and Rumi development. *Main plot*
 - Agasa Hiroshi Kidnapping Case : Introduces Hagiwara Chihaya.
 - Kaitō Kid and the Queen’s Bangs : Kaitō Kid.
 - Date Wataru’s Notebook : Takagi development.
