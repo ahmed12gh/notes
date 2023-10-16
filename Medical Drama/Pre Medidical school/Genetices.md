@@ -51,4 +51,3 @@ When the individual carries a genetic model which are not symmetric factors such
 - complete dominance : means only one One trait only shows in the phenotype of the organism such as a flower showing red color only ==Rr== .
 - co-dominant : means both dominant  traits from both parents are shown in the offsping  eg. a flowr having blue and red petels ==RB==.
 - Incomplete (blend): in whihch the flower become purple . 
-
