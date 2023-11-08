@@ -9,7 +9,7 @@
 [[new concepts.rs]]
 [[rust_syntax]]
 [[others]]
-
+[[Rust-doc/gtk_stuff]]
 # Linux in general 
 [[general]]
 [[G14]] change grub2 theme in fedora only 
