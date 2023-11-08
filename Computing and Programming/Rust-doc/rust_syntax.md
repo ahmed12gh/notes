@@ -100,7 +100,6 @@ In addtion to panic! macro , expect( ) and unwarp() methods   are use for unreco
 this example code explain the concept simply givng the error to another function to handle it or to exit the program with the error code (standerd C way of error codes ) .
 
 ```rust
-
 fn read_username_from_file() -> Result<String, io::Error> {
     let username_file_result = File::open("hello.txt");
 
@@ -117,7 +116,6 @@ fn read_username_from_file() -> Result<String, io::Error> {
     }
 }
 ```
-
 `io::Error` enum type can be repalce by `Box<dyn Error>` to handle every error possible .
 
 ```rust
@@ -128,7 +126,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 }
 ```
 
-The ``~?~ operater is simply a match that define the value to the varable or return the error (whole funtion)
+The ` ?`operater is simply a match that define the value to the varable or return the error (whole funtion)
 
 ~~~rust 
 fn foo() -> Result<(),Box<dyn Error>>{
