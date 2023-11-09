@@ -1,6 +1,5 @@
 
 Hippocrates  referred the, repetition of certain human qualities such as ==Crossed eye== and ==baldness== in a certain group of families. He also noted the spread of certain diseases such as ==epilepsy== and certain types of blindness in certain families. Greeks discovered the symptoms of some human syndromes such as (**Down's syndrome**).
-![[Resources/Pasted image 20230917042848.png]]
 # DNA 
 - **DNA** has ability to be transported from one organism to another by some **viruses** and **plasmids** . [^1]
 - it has ability to replicate inside a cell naturally and also outside, through the use of ==Polymerase Chain Reaction== (PCR).
@@ -50,4 +49,4 @@ When the individual carries a genetic model which are not symmetric factors such
 ### Types of relations between dominant traits 
 - complete dominance : means only one One trait only shows in the phenotype of the organism such as a flower showing red color only ==Rr== .
 - co-dominant : means both dominant  traits from both parents are shown in the offsping  eg. a flowr having blue and red petels ==RB==.
-- Incomplete (blend): in whihch the flower become purple . 
+- Incomplete (blend): in whihch the flower become purple .z 
