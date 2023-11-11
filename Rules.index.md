@@ -9,18 +9,21 @@ tags:
 - no longer than 10 words 
 - only  use H1 , H2 , H3  as other headers are too small 
 
-# Order and UnOrdered Lists 
+---
+###  Order and UnOrdered Lists 
 - always use UnOrdered Lists 
 - Rows of these lists should  not be more than 100 elements 
 - any lists  that is longer than this should be divided into sub catagores
 	- like theses 
 	- and these 
 
+---
 # Paragraphs 
 - Paragraphs should  be 3 lines long optimaly 
 - paragraphs also should be no longer than 5 lines  
 - the width of any paragraph should  be about 100 charachters 
 
+---
 # Images 
 - images are displayed in a grid either as 
 - 3 columns in one row 
@@ -29,8 +32,16 @@ tags:
 - images should  have a white background no black 
 -  transparent background are also an option 
 
+---
 # Tables 
 - each table should  at most have 10 columns 
 - each table at most should have 12 rows 
 - table title should be no longer than 3 words 
 
+---
+### Slides 
+In slides there are a certain rules to follow of which : 
+- paragraphs are not more than 5 lines long 
+- list also 
+- no list and paragraphs together 
+- always use small headers like H3 & H4 
