@@ -18,16 +18,19 @@ tending to be thinner on the **anterior** than on the **posterior** surface. It 
 The dermis of the skin is connected to the underlying **deep fascia** or **bones** by the  **superficial** fascia, otherwise known as **sub-cutaneous تحت الجلد** tissue.
 ## superficial fascia 
 is a mixture of **loose areolar** and **adipose** tissue unites the dermis to the underlying deep fascia 
-- In scalp فروة الرأس, the back of the neck, palms of the hands,  soles of  feet contains numerous bundles of **collagen fibers** hold the skin firmly to the deeper structures (bones and muscles)
-- In  eyelids, auricle (outer) of the ear, penis and scrotum, and clitoris, it is ==devoid of adipose tissue==.![[Medical School/First year/anatomy/Resources/Pasted image 20231115135333.png]]![[Medical School/First year/anatomy/Resources/Pasted image 20231115135519.png|200]]
+- In scalp فروة الرأس, the back of the neck, palms of the hands,  soles of  feet ==contains numerous bundles of **collagen fibers**== hold the skin firmly to the deeper structures (bones and muscles)
+- In  eyelids, auricle (outer) of the ear, penis and scrotum, and clitoris, it is ==devoid of adipose tissue==.
+![[Medical School/First year/anatomy/Resources/Pasted image 20231115135333.png]]![[Medical School/First year/anatomy/Resources/Pasted image 20231115135519.png|200]]
 ## Deep facsia 
  is a **membranous** layer of **connective tissue** that invests(covers) the muscles and other deep structures. 
 - In **neck**, it forms well-defined layers , **determining** the **path** taken by **pathogenic** organisms during the spread of **infection**.
-- In  **thorax** and **abdomen**, it is  thin film of **areolar** tissue covering the muscles and [aponeurosis](https://my.clevelandclinic.org/health/body/23407-aponeurosis)( **connective tissue**  similir tendons act as facsia )
+- In  **thorax** and **abdomen**, it is  thin film of **areolar** tissue covering the muscles and [aponeurosis](https://my.clevelandclinic.org/health/body/23407-aponeurosis)[^1]
 - In the **limbs**, it forms a definite sheath around the muscles and other structures, holding them in place
 - **Fibrous septa** extend from the deep surface of the membrane, between the groups of muscles, and in many places divide the interior of the limbs into compartments ![[Medical School/First year/anatomy/Resources/Pasted image 20231115154719.png|400]]
 - In the region of joints, the deep fascia may be considerably thickened to form restraining bands called **retinacula** Their function is to hold underlying tendons in position or to serve as pulleys(to retain) around which the tendons may move.
 ![[Medical School/First year/anatomy/Resources/Pasted image 20231115155233.png|400]]
+
+[^1]:An aponeurosis is a thin sheath of connective tissue that helps connect your muscles to your bones. Aponeuroses are similar to tendons. They support your muscles and give your body strength and stability. Aponeuroses absorb energy when your muscles move. You have aponeuroses all over your body. They’re important for movement and posture.
  
 
 

@@ -69,7 +69,7 @@ Standing erect, with the feet parallel and the arms hanging at the sides with th
 
 ## Special Movements at specific joints 
 - **elevation**, **depression** : at the temporomandibular joint (closing and opening mouth) shoulders ( shrugging )
-- **protraction** (forth), **retraction** : to draw froth or back as in protract the mandible or clavicles الترقوة  by crossing and extening ur arms 
+- **protraction** (forth), **retraction** : to draw froth or back as in protract the **mandible** or **clavicles** الترقوة  by crossing and extening ur arms 
 - **inversion**  (inward), **eversion**(outward) :  soles medially **or** laterally  at the intertarsal joints (between the tarsals)
 - **dorsiflexion**(dorsum الخلفي للقدم ), **planter flexion** bending of the foot :
 	NOTE: dorsiflexion is true flexion, whereas planter flexion is true extension.
