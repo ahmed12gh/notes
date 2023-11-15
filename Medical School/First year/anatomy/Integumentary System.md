@@ -22,9 +22,9 @@ is a mixture of **loose areolar** and **adipose** tissue unites the dermis to th
 - In  eyelids, auricle (outer) of the ear, penis and scrotum, and clitoris, it is ==devoid of adipose tissue==.![[Medical School/First year/anatomy/Resources/Pasted image 20231115135333.png]]![[Medical School/First year/anatomy/Resources/Pasted image 20231115135519.png|200]]
 ## Deep facsia 
  is a **membranous** layer of **connective tissue** that invests(covers) the muscles and other deep structures. 
-- In neck, it forms well-defined layers , **determining** the **path** taken by **pathogenic** organisms during the spread of **infection**.
-- In  thorax and abdomen, it is  thin film of **areolar** tissue covering the muscles and [aponeurosis](https://my.clevelandclinic.org/health/body/23407-aponeurosis)( **connective tissue**  similir tendons act as facsia )
-- In the limbs, it forms a definite sheath around the muscles and other structures, holding them in place
+- In **neck**, it forms well-defined layers , **determining** the **path** taken by **pathogenic** organisms during the spread of **infection**.
+- In  **thorax** and **abdomen**, it is  thin film of **areolar** tissue covering the muscles and [aponeurosis](https://my.clevelandclinic.org/health/body/23407-aponeurosis)( **connective tissue**  similir tendons act as facsia )
+- In the **limbs**, it forms a definite sheath around the muscles and other structures, holding them in place
 - **Fibrous septa** extend from the deep surface of the membrane, between the groups of muscles, and in many places divide the interior of the limbs into compartments ![[Medical School/First year/anatomy/Resources/Pasted image 20231115154719.png|400]]
 - In the region of joints, the deep fascia may be considerably thickened to form restraining bands called **retinacula** Their function is to hold underlying tendons in position or to serve as pulleys(to retain) around which the tendons may move.
 ![[Medical School/First year/anatomy/Resources/Pasted image 20231115155233.png|400]]
