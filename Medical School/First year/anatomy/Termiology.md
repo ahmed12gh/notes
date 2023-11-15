@@ -74,7 +74,8 @@ Standing erect, with the feet parallel and the arms hanging at the sides with th
 - **dorsiflexion**(dorsum الخلفي للقدم ), **planter flexion** bending of the foot :
 	NOTE: dorsiflexion is true flexion, whereas planter flexion is true extension.
 	
--  **supination**, **pronation** : proximal and distal radioulnar joints ![|400](Medical%20School/First%20year/anatomy/Resources/Pasted%20image%2020231114213602.png)
+-  **supination**, **pronation** : proximal and distal radioulnar joints ![|400](Medical%20School/First%20year/anatomy/Resources/Pasted%20image%2020231114213602.png) 
+> The Kings Pronate The beggers Supinate
 - **opposition** :is the movement of the thumb at the carpometacarpal joint in which the thumb moves across the palm to touch the tips of the fingers on the same hand. This gives the ability to grasp and manipulate objects .
 
 ء
