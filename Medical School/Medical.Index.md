@@ -3,7 +3,7 @@
 # Pre Medical School 
 [[Pre Medidical school/Genetices]]
 
-# Biology
+# anatomy 
 
 ## Human anatomy
 - head 

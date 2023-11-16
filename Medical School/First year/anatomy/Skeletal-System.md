@@ -46,8 +46,8 @@ In the foot ( **calcaneum**(s) , **talus**) and the hand (**scaphoid**  ,**lunat
 vault of the skull , frontal & parietal bones (**tables** of the skull )
 ![[Medical School/First year/anatomy/Resources/Pasted image 20231115231944.png|500]]
 - thin inner and outer layer of compact  bones  
-- seperated by cancellous  layer **[Diploë](https://en.wikipedia.org/wiki/Diplo%C3%AB)**
-- The **scapulae** (shoulder) , although irregular, are included in this group.
+- seperated by **cancellous**  layer **[Diploë](https://en.wikipedia.org/wiki/Diplo%C3%AB)**
+- The **scapulae** (shoulder) , although **irregular**, are included in this group.
 ## sesamoid bones
 Sesamoid bones are small nodules of bone that are found in certain tendons where they rub over bony surfaces.
 - The greater part of a sesamoid bone is buried in the tendon, and the free surface is covered with cartilage.

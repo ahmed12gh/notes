@@ -8,7 +8,7 @@
 - embyrology : study of organism from its immature stages ,viz. the intra-uterine stages from fertilized ovum up to complete independent organism  
 	- comparetive embryology : used to obtain information to fill in the gaps  by observations of lower forms 
 - comparetive anatomy : observation of the adult forms of human ancestry-النسب  
-- applied anatomy : applicaiton of facts wto direct patholoical conditions 
+- applied anatomy : applicaiton of facts to direct patholoical conditions 
 - suface anatomy : on or immediately under the surface of the body  
 
 # The Human Body systems  : 
