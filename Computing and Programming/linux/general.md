@@ -197,6 +197,7 @@ Sometimes Libraries wont be installed the right way
 just remove it and install it again for example. `libappindiactor and libdbbusmenu` as these libraries are not included by default in Fedora .
 
 
+
 ## Useful tricks
 -  to open the file manger as root just type in the headerbar `admin:// ` then the location wanted to open as admin
 
