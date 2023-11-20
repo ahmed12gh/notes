@@ -1,3 +1,7 @@
+---
+tags : HSF-2
+---
+
 # strutural classification  
 - type of connective tissue that combines the bones together
 - whether there is a space between the articulating bones or not ( synovial cavity)
@@ -12,13 +16,13 @@ the bones are held together by fibrous connective tissue and the is no synovial 
 - **Gomphosis** : is a type of fibrous joint in which ==a cone-shape peg fits into a socket==. 
 	- A gomphosis is classified functionally as a **synarthrosis**, an **immovable** joint.
 	- The only example in the body is the **roots of teeth** and their **sockets** in the **maxilla** and the **mandible** bones. 
-![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231116230524.png]]![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231116230607.png]]![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231116231038.png]]
+![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231116230524.png]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231116230607.png]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231116231038.png]]
 
 ### Cartilaginous joints
 the bones are held together by cartilage and the is no synovial cavity
 ### Synovial joints  (Diarthrosis) 
 the bones are held together by capsule and ligaments and there is a synovial cavity. [^1]
-![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231116223702.png|400]]
+![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231116223702.png|400]]
 
 # functional classification 
 degree of movement they permit

@@ -40,7 +40,7 @@ Low density materials do not provide sufficient density for interaction.
 
 #### Desgin of Anode  
 Most anodes are shaped as **beveled disks** and attached to the **shaft** of an **electric motor** that rotates them at relatively high speeds ; to **dissipate heat**
-![[Medical School/First year/Medical Physices/Resources/Pasted image 20231118193127.png|*|400x400 ]]
+![[MD/1 year/Medical Physices/Resources/Pasted image 20231118193127.png|*|400x400 ]]
 ##### Focal Spot 
 Not all of the anode is involved in x-ray production. The ==radiation is produced in a very small area== on the surface of the anode known as the focal spot. 
 The dimensions of the focal spot are determined by the **dimensions of the electron beam** arriving from the **cathode**.
@@ -50,7 +50,7 @@ The dimensions of focal spots usually range from **0.1 mm** to **2 mm**.
 - **large** focal spots have a **greater heat-dissipating** capacity.
 
 **Focal spot size is** one factor that must be considered when selecting an x-ray tube for a specific application.Most x-ray tubes have two focal spot sizes (small and large), which can be selected by the operator according to the imaging procedure.
-![[Medical School/First year/Medical Physices/Resources/Pasted image 20231118194115.png]]
+![[MD/1 year/Medical Physices/Resources/Pasted image 20231118194115.png]]
 
 ### The Cathode  
 The cathode is the negative terminal of the tube assembly and includes the **filament**, which is a small- coiled wire that is commonly made from **tungsten**. 
@@ -64,7 +64,7 @@ The typical cathode consists of a small coil of wire (a filament) recessedwithin
 
 current supplied to the filament ranges from a **few hundred micro-amperes** to several **mille-amperes (mA)**.*==Filament current may be varied or fixed to maintain a constant tube current.==*
 Adjustments in current to the filament varies the number of electrons that will boil off the filament. This in turn controls the number of X-rays that the tube is generating. **Filament current controls the X-ray intensity**
-![[Medical School/First year/Medical Physices/Resources/Pasted image 20231118203727.png|*]]
+![[MD/1 year/Medical Physices/Resources/Pasted image 20231118203727.png|*]]
 #### Cathode consist of 
 A spiral of heated low resistance (R) tungsten wire (filament) for electron emission. Wire is heated by filament current
 #### Calculations 

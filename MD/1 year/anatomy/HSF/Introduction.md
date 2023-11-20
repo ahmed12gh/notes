@@ -1,3 +1,7 @@
+---
+tags : HSF-1
+---
+
 # intro to anatomy & its forms 
 **anatomy is studied in 2 methods :** 
 - systematic anatomy : studying seperate organs 
@@ -9,7 +13,9 @@
 	- comparetive embryology : used to obtain information to fill in the gaps  by observations of lower forms 
 - comparetive anatomy : observation of the adult forms of human ancestry-النسب  
 - applied anatomy : applicaiton of facts to direct patholoical conditions 
-- suface anatomy : on or immediately under the surface of the body  
+- suface anatomy : on or immediately under the surface of the body 
+
+*Both Compertive anatomy and embryology are used mostly in research*.
 
 # The Human Body systems  : 
 There are 11 Systems in the body and if the Reproductive system is considered as Male and Female Reproductive systems separately so there are 12 systems
@@ -18,7 +24,7 @@ There are 11 Systems in the body and if the Reproductive system is considered as
 3. Musculer system : about 600 muscles 
 4. Nervous system : 
 	1. CNS : Central nervous system includes Brain and spinal cord 
-	2. PNS : Peripheral Nervous System includes Motor , Sensory and mixed neurons 
+	2. PNS : Peripheral Nervous System includes Motor , Sensory and **mixed neurons** (found Mostly in Limbs )
 5. *==cardiovascular system==* 
 6. respiratory system : the lungs are the lighest organ 
 7. lymphaic system 

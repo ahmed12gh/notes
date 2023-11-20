@@ -1,3 +1,7 @@
+---
+tags : HSF-2
+---
+
  the human skeleton the 206 bones and 32 teeth stand out.
 # Cartilage
 is more flexible than bone but stiffer than muscle.Cartilage helps give structure to the **larynx** and **nose**. It is also found between the **vertebrae** and at the **ends of bones** like the **femur**.
@@ -31,12 +35,12 @@ is more flexible than bone but stiffer than muscle.Cartilage helps give structur
 	- Bundles of *collagen fibers* known as **Sharpey's fibers** extend from the **periosteum** into the underlying bone. It receives a rich nerve supply and is very sensitive
 -  The **Endo-steum** is a thin membrane that lines the **medullary cavity**
 - 
- ![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115212258.png|400x500 ]] ![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115214736.png|500x500]]
+ ![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115212258.png|400x500 ]] ![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115214736.png|500x500]]
  
  
 ## short bones 
 In the foot ( **calcaneum**(s) , **talus**) and the hand (**scaphoid**  ,**lunate**) 
-![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115230225.png]]![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115230437.png]]
+![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115230225.png]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115230437.png]]
 -  roughly **cuboidal** in shape
 - are composed of **cancellous** bone
 - surrounded by a thin layer of **compact** bone 
@@ -44,7 +48,7 @@ In the foot ( **calcaneum**(s) , **talus**) and the hand (**scaphoid**  ,**lunat
 - **articular** (joints) surfaces are covered by *hyaline cartilage*
 ## flat bones 
 vault of the skull , frontal & parietal bones (**tables** of the skull )
-![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115231944.png|500]]
+![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115231944.png|500]]
 - thin inner and outer layer of compact  bones  
 - seperated by **cancellous**  layer **[Diploë](https://en.wikipedia.org/wiki/Diplo%C3%AB)**
 - The **scapulae** (shoulder) , although **irregular**, are included in this group.
@@ -53,7 +57,7 @@ Sesamoid bones are small nodules of bone that are found in certain tendons where
 - The greater part of a sesamoid bone is buried in the tendon, and the free surface is covered with cartilage.
 - The **largest** sesamoid bone is the **patella**,  in the tendon of the **quadriceps femoris** .(Knee)
 - also in the tendons of the **flexor pollicis brevis** and **flexor hallucis brevis**.
-![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115233456.png|400x400]]![[Medical School/First year/anatomy/HSF/Resources/Pasted image 20231115233505.png|400x400]]
+![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115233456.png|400x400]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115233505.png|400x400]]
 - The function of a sesamoid bone 
 	- reduce friction on the tendon 
 	- alter the direction of pull of a tendon.

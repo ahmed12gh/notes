@@ -1,7 +1,7 @@
 # TODO : 
 
 # Pre Medical School 
-[[Pre Medidical school/Genetices]]
+[[MD/Pre Medidical school/Genetices]]
 
 # anatomy 
 

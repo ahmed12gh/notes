@@ -1,9 +1,15 @@
+---
+tags : HSF-1
+---
+
 1.1 : Q the largest organ in the body is : **skin** 
-1.2  Q : The Difference between the integumentry system and skin : **skin consist of 2 layers epidermis and dermis while integumentry system include also ==hair,nails glands,and nerves==** , also intgument is generic term used to describe the tissue covering an organism 
+1.2  Q : The Difference between the integumentry system and skin : **skin consist of 2 layers epidermis and dermis while integumentry system include also ==hair,nails glands,and nerves==**  
 2.1 Q: the largest bone in the body : **femur**  ( the thigh bone longest and strongest bone )
 2.2 Q: the smallest bone :   **stapes** bone in the middle ear 
-![](Medical%20School/First%20year/homeworks/Resources/Pasted%20image%2020231113222438.png)
-3.1 Q : The Sensory neurons are more numerous than motor neurons : there are around 10M sensory neuron while only 0.5M motor neurons **BUT** : intra-neurons are the most numerous 
+![](MD/1%20year/homeworks/Resources/Pasted%20image%2020231113222438.png)
+3.1 Q : The Sensory neurons are more numerous than motor neurons : there are around 10M sensory neuron while only 0.5M motor neurons **BUT** : inter-neurons are the most numerous [^1] There are more than 100 billion interneurons in the human body
+
+[^1]:exclusively in the central nervous system ,Interneurons acts as a “middle-man” between afferent, or sensory, neurons, which receive signals from the peripheral nervous system, and efferent, or motor, neurons, which transmit signals from the brain. It also connects to other interneurons, allowing them to communicate with one another
 
 4.1 Q What is the percentage of damage that could occur to the heart but the human can still be alive : **40%**
 

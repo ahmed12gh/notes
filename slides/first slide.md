@@ -25,7 +25,7 @@ and this is another picture this is a new slide to try new things and what so ev
 ---
 
 nice try there 
-[[Genetices](Medical%20School/Pre%20Medidical%20school/Genetices.md) ]
+[[Genetices](MD/Pre%20Medidical%20school/Genetices.md) ]
 
 ---
 
