@@ -3,6 +3,7 @@ tags : HSF-2
 ---
 
  the human skeleton the 206 bones and 32 teeth stand out.
+ 
 # Cartilage
 is more flexible than bone but stiffer than muscle.Cartilage helps give structure to the **larynx** and **nose**. It is also found between the **vertebrae** and at the **ends of bones** like the **femur**.
 # ligaments 

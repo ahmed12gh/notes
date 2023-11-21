@@ -180,7 +180,7 @@ Cornea, skin, mucosa of oral cavity(mucous membrane), esophagus, and vagina.
 ![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121000626.png|*|400]]
 
 ## Gap (communicating) junctions
-Intercellular channels that provide **communication** between adjacent cells through small canaliculi. The **distance** between cell membranes is very **small**; <nm.
+Intercellular channels that provide **communication** between adjacent cells through **small canaliculi**. The **distance** between cell membranes is very **small**; <nm.
 
 Gap junction is formed by a protein called **connexons**. Six connexons molecules run across cell membranes of adjacent cells creating small **canaliculus** with pores on both cells
 **Location**:
@@ -206,8 +206,7 @@ According to the **functional need**, the apical surface (luminal surface)
 ## Microvilli 
 - Finger- like **cytoplasmic extensions** of the apical epithelial surface of absorptive cells In 
 	- small intestine,
-	- gall bladder 
-	- bile duct,  
+	- gall bladder  , bile duct,  
 	- **proximal** convoluted tubule of the **kidney**.
 - They increase the surface area for absorption or secretion. 
 - Each microvillus is about **1 μm** long and **0.1 μm** wide 
@@ -218,7 +217,7 @@ According to the **functional need**, the apical surface (luminal surface)
 
 
 ## Stereocilia 
-Are similar to microvilli but **longer and thicker**. They present in sensory cells of internal ear, and lining of epididymis, to *increase surface area*. They are **non-motile**, and may show **branching**. 
+Are similar to microvilli but **longer and thicker**. They present in sensory cells of internal ear, and lining of epididymis, They are **non-motile**, and may show **branching**. 
 
 **Functions**:
 1- in **internal ear**: act as sensory **mechanoreceptors**.
@@ -231,7 +230,8 @@ Hair- like apical projections, about **10 μm** long and **0.25 μm** diameter.
 2- **Non-motile** cilia: present in **photoreceptor cells of retina**, and **olfactory** neurons. They help in **chemical sensation**.
 
 *Cilia move in a beating pattern, to move fluids and other materials over epithelial surface*
-### Structure 
+
+ **Structure** 
 composed of core structure called **axoneme**. Axoneme is composed of
 - **central** pair of *microtubules*, and 
 - nine **peripheral** pairs of microtubules
@@ -241,12 +241,12 @@ Axoneme also contains **motor proteins** necessary for its function. They are:
 2. **Dynein**.
 Axoneme is attached to(by) **basal bodies** at the **apical part** of cell, bellow the cell membrane.
 
-### Location:
+ **Location**:
 - Respiratory tract,
 - sperms, 
 - fallopian tube.
 
-### Functions:
+**Functions**:
 - Ciliary movement removes mucous from epithelial surface.
 - Helps in motility of sperms
 - Helps in bringing ova and sperm at the site of fertilization in fallopian tube, and moves fertilized ovum towards uterus.
