@@ -17,7 +17,7 @@ Cell come in various sizes and shapes, **depending on their specific functions**
 - **The cells size** : is variable, range between 1-100 **micrometer** or may be large as a few centimeters.
 - **The cells shape**:
 	- are **round**, **elongated** or **spherical**.
-	-  cells which are long and pointed on both the ends. Such cells exhibit **spindle** shape.
+	-  cells which are long and pointed on both the ends. Such cells exhibit **spindle**  shape.
 	-  the cells are very long some may be branched like the neuron 
 # Prokaryotic , E.g : Bacterial Cell
 Bacteria are unicellular organisms belonging to the prokaryotic group where the organisms do not contain membrane organelles, so they have **no** *nucleus, mitochondria, endoplasmic reticulum*, or *Golgi apparatus*. Cytoplasm of a bacterial cell contains **ribosomes**. *==Why==*? 
@@ -32,7 +32,7 @@ The **cell wall** forms a **hard structure** of **uniform thickness** around the
 
 
 # Eukaryotic E.G. Animal Cell 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120214045.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120214045.png]]
 Components : 
 1. Cell Membrane.
 2. Nucleus.
@@ -52,12 +52,12 @@ Peroxisomes are **small vesicles**, **single membrane**-bound organelles .
 - They contain : 
 	- **digestive enzymes** for breaking down **toxic** materials in the cell 
 	-  **oxidative enzymes** for **metabolic** activity. 
-- Peroxisomes play an important role in **lipid** production
-- and are also involved in the conversion of **reactive oxygen species** such as *hydrogen peroxide* into **safer** molecules like *water* and *oxygen* by the **enzyme catalase.**[^1]
+- Peroxisomes play an important role in ==**lipid** production==
+- and are also involved in the conversion of **reactive oxygen species** such as *hydrogen peroxide* into **safer** molecules like *water* and *oxygen* by the **enzyme *catalase*.**[^1]
 ### Shapes of peroxisome 
 1. Mostly peroxisomes occur as an **individual organelle**, e.g. in **fibroblasts**.
 2. hey also exist in the form of **interconnected tubules** in **liver** cells known as **peroxisome reticulum**.
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231119192902.png|*]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231119192902.png|*]]
 
 [^1]: Catalase is **a key enzyme which uses hydrogen peroxide, a nonradical ROS, as its substrate**. This enzyme is responsible for neutralization through decomposition of hydrogen peroxide, thereby maintaining an optimum level of the molecule in the cell which is also essential for cellular signaling processes
 
@@ -79,8 +79,8 @@ Cytoskeleton: is a **network of protein filaments** and **tubules** that provide
 		- **lipids**, 
 		- **carbohydrates**.
 - **Storage and Transport**: Cells store **nutrients**, **ions**, and transport them within the cell and between cells
-- **Response to Stimuli**: Cells can detect and respond to external stimuli , e.g. **nerve cells** 
-- **Cell Division**: Cells divide to reproduce, grow, and repair damaged tissues
+- **Response to Stimuli**: Cells can detect and respond to external stimuli , e.g. ==**nerve cells**== 
+- **Cell Division**: Cells divide to reproduce, *grow*, and *repair* damaged tissues
 	- **DNA Replication**: Cells replicate their DNA during cell division
 - **Hormone Production**: Some cells produce hormones that **regulate** various physiological processes
 - **Defense and Immune Response**: *Immune cells* defend the body against pathogens by **identifying** and **neutralizing** *foreign bodies*

@@ -25,7 +25,7 @@ In biological field :
 - Pathology.
 - Cytology[^1].
 - Immunohistochemistry [^2]
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231119214453.png|*|400]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231119214453.png|*|400]]
 
 [^1]:_Cytology_ is the exam of a single cell type, as often found in fluid specimens. It's mainly used to diagnose or screen for cancer 
 [^2]:technique that exploits the specific binding between an antibody and antigen to detect and localize specific antigens in cells and tissue

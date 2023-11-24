@@ -1,5 +1,5 @@
 *==Cytoplasm of a bacterial cell contains **ribosomes**.==* : 
-Ribosomes are macromolecular machines that catalyse the synthesis of proteins from amino acids; synthesis and assembly into subunits takes place in the nucleolus and includes the association of ribosomal RNA (rRNA) with ribosomal proteins translocated from their site of synthesis in the cytoplasm. The individual subunits are then transported into the cytoplasm, where they remain separate from each other when not actively synthesizing proteins. Ribosomes are granules approximately 25 nm in diameter, composed of rRNA molecules and proteins assem- bled into two unequal subunits. The subunits can be separated by their sedimentation coefficients (S) in an ultracentrifuge into larger 60S and smaller 40S components. These are associated with 73 different pro- teins (40 in the large subunit and 33 in the small), which have structural and enzymatic functions. Three small, highly convoluted rRNA strands (28S, 5.8S and 5S) make up the large subunit, and one strand (18S) is in the small subunit.
+The ribosome  ,help in protein synthesis ,they reads the messenger RNA (mRNA) sequence and translates that genetic code into a specified string of amino acids, which grow into long chains that fold to form proteins.
 
 *==Q. What are the smallest and the largest cell==*? :  smallest **Mycoplasma gallicepticum** 0.2–0.3 μm, largest : egg cell of ostrich النعامة  
 
@@ -7,3 +7,13 @@ Ribosomes are macromolecular machines that catalyse the synthesis of proteins fr
 carbohydrates  found to be **attached** to the lipids or proteins on the **extracellular** side of the membrane, leading to the formation of **glycolipids** and **glycoproteins**
 
 *==why the protein % is higher than lipids % in cell membrane  although its mostly seen to be consisting of lipids==* 
+This higher proportion of proteins is primarily due to their diverse roles in cell membrane function
+Since proteins are much larger than lipids, this percentage corresponds to about one protein molecule per every 50 to 100 molecules of lipid 
+
+*==example of each synoival joints==* 
+1. Planer : Planar joints are found in the carpal bones in the hand and the tarsal bones of the foot, as well as between vertebrae
+2. Hinge : elbow
+3. Pivot  : first and second vertebrae of the neck
+4. Condyloid[^2] : in the joints of the wrist and fingers
+5. Saddle : thumb joint
+6. Ball-and-socket joints  : shoulder and hip joints

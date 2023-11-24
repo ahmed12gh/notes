@@ -26,100 +26,96 @@ tags: HISTO-1
 # Classification of epithelia 
 1. Layers of epithelia.
 2. Shape of cells at surface.
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120001356.png]]
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120004557.png]]
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120004536.png]]
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120092625.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120001356.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120004557.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120004536.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120092625.png]]
 
 
 # Simple Epithelium 
-## Simple squamous 
-- **Flattened polygonal** cells,
-- with **flat elongated** nuclei that stain **dark** with **hematoxylin stain**,
-- and thin **cytoplasm** that stains eosin ( pink ) 
+1. ***Simple squamous*** 
+	- **Flattened polygonal** cells,
+	- with **flat elongated** nuclei that stain **dark** with hematoxylin stain,
+	- and thin cytoplasm that stains eosin ( pink ) 
+	- ==Function==: 
+		- Helps in rapid transport of substances, 
+		- diffusion of gases, 
+		-  filtration of fluids.
+2. ***Simple cuboidal***   
+	- Cells have **equal** width and height. 
+	- Nuclei are **rounded** and **centrally** located, 
+	- with **eosinophilic**( readily stained by eosin) cytoplasm. 
+	- **==Function==:** 
+		- Mainly involved in ==**transport**;==
+		- absorption and excretion, 
+		- *synthesis and secretion of substances*.
+
+3. ***Simple columnar*** 
+	- Cells are **tall**, with abundant cytoplasm  
+	- **oval elongated nuclei** at the **basal part of cell**. They appear **lightly** stained with one or **two nucleoli**. 
+	- Simple columnar cells usually have 
+		- **apical cilia** ( as in **fallopian** tube ), 
+		- and **microvilli** ( as in gastrointestinal tract *GIT* ).
+	- **==Function==**: Secretion, and absorption
+
+
+## Pseudostratified columner Epitheliar Tissue
+the cells rest on basement membrane, but only *some* of these cells *reach* the *free surface* of epithelium, so **nuclei appear at different levels**. The basal cells are **cuboidal**, and the rest are **columnar**, reaching the free surface.
+
+**Present** only in:
+1. **Respiratory** tract: usually **ciliated**.
+2. **Male** reproductive system: usually with **stereocilia**.
+3. **Auditory** tube([ Eustachian tube](https://en.wikipedia.org/wiki/Eustachian_tube)): usually **non-ciliated**.
 
 **Function**: 
-- Helps in rapid transport of substances, 
-- diffusion of gases, 
--  filtration of fluids.
-## Simple cuboidal   
-- Cells have **equal** width and height. 
-- Nuclei are **rounded** and **centrally** located, 
-- with **eosinophilic**( readily stained by eosin) cytoplasm. 
-
-**Function:** 
-- Mainly involved in **transport**;
-- absorption and excretion, 
-- **synthesis** and secretion of substances.
-
-## Simple columnar 
-- Cells are **tall**, 
-- with abundant cytoplasm  
-- **oval elongated nuclei** at the **basal part of cell**. They appear **lightly** stained with one or **two nucleoli**. 
-- Simple columnar cells usually have **apical cilia** ( as in **fallopian** tube ), and **microvilli** ( as in gastrointestinal tract *GIT* ).
-
-**Function**: Secretion, and absorption
-
-
-##  Pseudostratified 
-the cells rest on basement membrane, but only **some** of these cells **reach** the **free surface** of epithelium, so **nuclei appear at different levels**. The basal cells are **cuboidal**, and the rest are **columnar**, reaching the free surface.
-
-**present** only in:
-1-**Respiratory** tract: usually **ciliated**.
-2-**Male** reproductive system: usually with **stereocilia**.
-3-**Auditory** tube([ Eustachian tube](https://en.wikipedia.org/wiki/Eustachian_tube)): usually **non-ciliated**.
-
-**function**: 
 Protection, secretion of mucus, removal of mucus by cilia, absorption of fluids, and the basal cells have mitotic activity to replace lost cells.
 
 
 # Stratified epithelium 
-## Stratified squamous keratinized:
-Found in **epidermis** of skin. The superficial cells are **dead**, without nuclei, and cytoplasm is filled with **keratohyalin granules**. 
+1. ***Stratified squamous*** 
+	1. keratinized:
+		- Found in **epidermis** of skin. 
+		- The superficial cells are **dead**, without nuclei, and cytoplasm is filled with **keratohyalin granules**. 
+		- *Function*
+			- Protection of deeper structures
+			- as barrier against infection
+			- Prevent water loss
+	2. nonkeratinized
+		- The superficial cells are **live**, with **no keratin granules**.
+		- It is always moist.
+		- eIt is found in **oral cavity**, **oropharynx**, **esophagus**, **vagina**, and **corneaالقرنية** 
+		- *Function*:
+			- Protection
+			- Barrier against infection 
+	- *Vitamin A deficiency may lead to keratinization of nonkeratinized epithelium*
+2.  ***Stratified cuboidal epithelium***:
+	- Composed of two or more layers, the superficial is cuboidal.
+	- *Function*:
+		- Barrier
+		- ==Act as passage of secretion==
 
-**Function**
-- Protection of deeper structures
-- as barrier against infection
-- Prevent water loss
-
-## Stratified squamous nonkeratinized
-The superficial cells are **live**, with **no keratin granules**. It is always moist. It is found in **oral cavity**, **oropharynx**, **esophagus**, **vagina**, and **corneaالقرنية** 
-
-**Function**:
-- Protection
-- Barrier against infection.
-
-*Vitamin A deficiency may lead to keratinization of nonkeratinized epithelium*
-
-## Stratified cuboidal epithelium:
-Composed of two or more layers, the superficial is cuboidal.
-**Function**:
-- Barrier
-- Act as passage of secretion
-
-## Stratified columnar epithelium:
-Usually composed of two layers,where superficial layer is columnar.
-**Function**:
-- Barrier
-- Act as passage of secretion
-
-## Transitional epithelium: 
-- lines most of urinary passages, so it is called urothelium,
-- its shape depends on the **stretching of the organ**.
-	- In full bladder, transitional epithelium looks only **2-3** cell layer thickness, and the cells become **flat**, 
-	- in empty bladder it looks **5-6** layer thick, and cells become **cuboidal** or polygonal.
-- **Basal** cell are cuboidal, and **superficial** cells are **dome** shaped ( umbrella shaped ).
+3. ***Stratified columnar epithelium***:
+	- Usually composed of two layers,where superficial layer is columnar.
+	- *Function*:
+		- Barrier
+		- ==Act as passage of secretion==
+4. ***Transitional epithelium***: 
+	- lines most of urinary passages, so it is called *urothelium*,
+	- its shape depends on the **stretching of the organ**.
+		- In full bladder, transitional epithelium looks only **2-3** cell layer thickness, and the cells become **flat**, 
+		- in empty bladder it looks **5-6** layer thick, and cells become **cuboidal** or polygonal.
+	- **Basal** cell are cuboidal, and **superficial** cells are **dome** shaped ( umbrella shaped ).
 
 
 # Basement  Membrane  BM
 Thin layer of an **extracellular matrix** that **supports** the overlying epithelium.
-*BM is not clearly visible on ordinary histological stains, but using electron microscope  (**EM** )can show
+*BM is not clearly visible on ordinary histological stains, but using electron microscope  **EM** it can be shown*
 ## Under EM, BM is composed of two layers:
 1. **Superficial basal lamina**. : lies under the basal layer of epithelium, consists of two layers:
 	1. ***Lamina lucida***: consists of type **IV collagen fibers** and **amorphous(without-shape) matrix**.
 	2. ***Lamina densa***: consists of numerous type *IV collagen fibers*.
-	- Both collagen fibers and matrix are produced by epithelial cells.
-2. **Deep reticular** layer. : it lies deep to basal lamina, consists of reticular fibers. and VII collagen fibers 
+	- Both collagen fibers and matrix are produced by **epithelial cells**.
+2. **Deep reticular** layer : it lies deep to basal lamina, consists of *reticular fibers*. and *VII collagen fibers* 
 
 ## Functions 
 - support 
@@ -148,7 +144,7 @@ Present  **near the apical surface** of cells. It seals intercellular space alon
 - **seals** intercellular space
 - Provide barrier to **prevent** entry of contents of organ into blood as in urinary bladder
 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120230249.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120230606.png]] 
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120230249.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120230606.png]] 
 
 
 ## Adhesive / Anchoring junctions
@@ -157,7 +153,7 @@ It lies **bellow tight junctions** and provides **lateral adhesion** between adj
 
 The apical part of cell has a **network of actin filaments** that runs horizontally forming zonula adherens. These fibers form a **terminal web** (**TW**). *Contraction* of actin filaments of terminal web will **spread out microvilli** and increase the area for absorption
 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120232507.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231120232521.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120232507.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120232521.png]]
 
 
 ### Desmosomes / Macula adherens / adhesion spot 
@@ -171,13 +167,13 @@ Desmosomes consist of:
 **Functions**:
 -  Provides **stability**
 - Provides strong adhesion between cells 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121000535.png|*|400]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121000535.png|*|400]]
 
 ### Hemidesmosomes 
 They represent half desmosomes. They **anchor the cell to basal lamina**.
 **Location**:
 Cornea, skin, mucosa of oral cavity(mucous membrane), esophagus, and vagina.
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121000626.png|*|400]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121000626.png|*|400]]
 
 ## Gap (communicating) junctions
 Intercellular channels that provide **communication** between adjacent cells through **small canaliculi**. The **distance** between cell membranes is very **small**; <nm.
@@ -202,7 +198,7 @@ According to the **functional need**, the apical surface (luminal surface)
 - Microvilli
 - Stereocilia
 - Cilia
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121004041.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121004059.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121004041.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121004059.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231122233629.png]]
 ## Microvilli 
 - Finger- like **cytoplasmic extensions** of the apical epithelial surface of absorptive cells In 
 	- small intestine,
@@ -210,38 +206,36 @@ According to the **functional need**, the apical surface (luminal surface)
 	- **proximal** convoluted tubule of the **kidney**.
 - They increase the surface area for absorption or secretion. 
 - Each microvillus is about **1 μm** long and **0.1 μm** wide 
+- Microvilli should not be confused with [intestinal villi](https://en.wikipedia.org/wiki/Intestinal_villi "Intestinal villi"), which are made of many cells. Each of these cells has many microvilli.)
 
-### Structure of microvillus:
-1- Cytoplasmic core **of 20-30 actin filaments** that run from **tip** of microvillus to the **terminal web**.
-2- Myosin molecules: run **between** *cell membrane and actin filaments, and at terminal web*. Both **actin** and **myosin** help in motilityالحركة of microvillus
+**Structure of microvillus**:
+1- Cytoplasmic core of 20-30 **actin filaments** that run from **tip** of microvillus to the **terminal web**.
+2- Myosin molecules (filaments): run **between** *cell membrane and actin filaments, and at terminal web*. Both **actin** and **myosin** help in motilityالحركة of microvillus
 
 
 ## Stereocilia 
-Are similar to microvilli but **longer and thicker**. They present in sensory cells of internal ear, and lining of epididymis, They are **non-motile**, and may show **branching**. 
+Are similar to microvilli but **longer and thicker**. They present in sensory cells of internal ear, and lining of epididymis, They are **non-motile**(*since they miss myosin micro-filaments*), and may show **branching**. 
 
 **Functions**:
 1- in **internal ear**: act as sensory **mechanoreceptors**.
 2- in **epididymis**: *increase surface area* for absorption of fluids
 ## Cilia 
-Hair- like apical projections, about **10 μm** long and **0.25 μm** diameter.
+Hair- like apical projections, about 10 μm long and 0.25 μm diameter.
+*Cilia move in a beating pattern, to move fluids and other materials over epithelial surface*
 
 **Types of cilia**:
 1- **Motile** cilia: present in **respiratory** epithelium and **Fallopian tube**.
 2- **Non-motile** cilia: present in **photoreceptor cells of retina**, and **olfactory** neurons. They help in **chemical sensation**.
 
-*Cilia move in a beating pattern, to move fluids and other materials over epithelial surface*
-
  **Structure** 
-composed of core structure called **axoneme**. Axoneme is composed of
-- **central** pair of *microtubules*, and 
-- nine **peripheral** pairs of microtubules
-
-Axoneme also contains **motor proteins** necessary for its function. They are:
-1. **Kinesin**.
-2. **Dynein**.
-Axoneme is attached to(by) **basal bodies** at the **apical part** of cell, bellow the cell membrane.
-
- **Location**:
+composed of core structure called **axoneme**.Axoneme is attached to(by) **basal bodies** at the **apical part** of cell, bellow the cell membrane., Axoneme is composed of
+- **central** pair of *microtubules*, (not found in non-motile and basal body) 
+- nine **peripheral** pairs of microtubules 
+- Axoneme also contains **motor proteins** necessary for its function. They are:
+	1. **Kinesin**.
+	2. **Dynein**.( not found in non-motile cilia & basal body )
+	
+**Location**:
 - Respiratory tract,
 - sperms, 
 - fallopian tube.

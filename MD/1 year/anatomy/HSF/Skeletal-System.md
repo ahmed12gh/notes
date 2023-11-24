@@ -1,8 +1,7 @@
 ---
 tags : HSF-2
 ---
-
- the human skeleton the 206 bones and 32 teeth stand out.
+Human skeleton Has 206 bones and 32 teethe. The Skeletal system make up about $\frac{1}{5}$  of Total Body weight , One person of 20 people has an extra rib  
  
 # Cartilage
 is more flexible than bone but stiffer than muscle.Cartilage helps give structure to the **larynx** and **nose**. It is also found between the **vertebrae** and at the **ends of bones** like the **femur**.
@@ -15,7 +14,7 @@ is more flexible than bone but stiffer than muscle.Cartilage helps give structur
 - **cancellous** : consists of a branching network of **trabeculae**,arranged in such a manner as to resist the stresses and strains to which the bone is exposed.
 
 ## Long bones 
- in the *humerus*,*femur*,*metacarpals*, *metatarsals*, and *phalanges* (fingers and toes) their length is greater than their breadth(width). 
+ in the ==humerus,femur,metacarpals, metatarsals, and **phalanges** (fingers and toes)== their length is greater than their breadth(width). 
  
 **Long bone structures** 
 - The **articular cartilage** is a thin layer of hyaline cartilage that covers each **epiphysis** where the wholebone forms an articulating joint with another bone. *reduces friction* and *absorbs shock* at freely movable joints.
@@ -36,20 +35,20 @@ is more flexible than bone but stiffer than muscle.Cartilage helps give structur
 	- Bundles of *collagen fibers* known as **Sharpey's fibers** extend from the **periosteum** into the underlying bone. It receives a rich nerve supply and is very sensitive
 -  The **Endo-steum** is a thin membrane that lines the **medullary cavity**
 - 
- ![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115212258.png|400x500 ]] ![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115214736.png|500x500]]
+ ![[MD/1 year/anatomy/HSF/res/Pasted image 20231115212258.png|400x500 ]] ![[MD/1 year/anatomy/HSF/res/Pasted image 20231115214736.png|500x500]]
  
  
 ## short bones 
 In the foot ( **calcaneum**(s) , **talus**) and the hand (**scaphoid**  ,**lunate**) 
-![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115230225.png]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115230437.png]]
+![[MD/1 year/anatomy/HSF/res/Pasted image 20231115230225.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231115230437.png]]
 -  roughly **cuboidal** in shape
 - are composed of **cancellous** bone
 - surrounded by a thin layer of **compact** bone 
 - covered with **periosteum** 
 - **articular** (joints) surfaces are covered by *hyaline cartilage*
 ## flat bones 
-vault of the skull , frontal & parietal bones (**tables** of the skull )
-![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115231944.png|500]]
+==**vault**== of the skull , frontal & parietal bones (**tables** of the skull )
+![[MD/1 year/anatomy/HSF/res/Pasted image 20231115231944.png|500]]
 - thin inner and outer layer of compact  bones  
 - seperated by **cancellous**  layer **[Diploë](https://en.wikipedia.org/wiki/Diplo%C3%AB)**
 - The **scapulae** (shoulder) , although **irregular**, are included in this group.
@@ -57,8 +56,8 @@ vault of the skull , frontal & parietal bones (**tables** of the skull )
 Sesamoid bones are small nodules of bone that are found in certain tendons where they rub over bony surfaces.
 - The greater part of a sesamoid bone is buried in the tendon, and the free surface is covered with cartilage.
 - The **largest** sesamoid bone is the **patella**,  in the tendon of the **quadriceps femoris** .(Knee)
-- also in the tendons of the **flexor pollicis brevis** and **flexor hallucis brevis**.
-![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115233456.png|400x400]]![[MD/1 year/anatomy/HSF/Resources/Pasted image 20231115233505.png|400x400]]
+- also in the tendons of the **flexor pollicis brevis** (a muscle that flexes a joint of the thumb short) and **flexor hallucis brevis**(of big toe).
+![[MD/1 year/anatomy/HSF/res/Pasted image 20231115233456.png|400x400]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231115233505.png|400x400]]
 - The function of a sesamoid bone 
 	- reduce friction on the tendon 
 	- alter the direction of pull of a tendon.

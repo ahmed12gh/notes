@@ -4,7 +4,7 @@ tags : HISTO-2
 
 # Glandular epithelium
 Is a specialized group of cells that **synthesize** and **secrete** substances or **hormones**. Glands are **derived** from **epithelium** 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121205407.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121205439.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121205407.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121205439.png]]
 
 # Classifications 
 - no. of cells 
@@ -23,10 +23,10 @@ Is a specialized group of cells that **synthesize** and **secrete** substances o
 Consists of **isolated** glandular cells as goblet cells. These cell lie among lining epithelium of **intestine** or **respiratory** epithelium.
 
 **Goblet** cell has a **cup shape** with **narrow basal stem**. The apical cytoplasm has numerous **secretory vesicles** filled with **mucus**, and nucleus is **flat**, and pushed to the **basal** side of the cell 
-In ordinary H&E stain[^1], apical portion of goblet cell appears **empty**, because *mucus is removed during preparation of tissue slide*. It is demonstrated better with **PAS** stain (special stain for mucin).
+In ordinary H&E stain[^1], apical portion of goblet cell appears **empty**, because *mucus is removed during preparation of tissue slide*. It is demonstrated better with **PAS** stain (**Periodic acid Schiff** special stain for mucin).
 
 **Functions**: Secrete mucus
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121210511.png|**|400x500]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121210511.png|**|400x500]]
 
 [^1]:Hematoxylin and eosin stain
 
@@ -38,7 +38,7 @@ Composed of clusters of cells that **aggregate** to form a complex structure; th
 Composed of two parts:
 1. **Secretory** portion: supported by a connective tissue **stroma**.
 2. **Duct**: to transport the secretion out of the gland 
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121212310.png|**|400]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121212310.png|**|400]]
 ## Exocrine glands are classified according to:
 1. **No.** of **branches** of **ducts**:
 	- Simple, 
@@ -72,8 +72,8 @@ Have one **unbranched** duct. It could be either:
 5. Simple **branched alveolar**: 
 	- sebaceous gl.
 		
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121212702.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121212714.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121212721.png]]
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121213007.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121213017.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121212702.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121212714.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121212721.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121213007.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121213017.png]]
 
 ## Compound glands *Exocrine* 
 Have **branched** duct. It could be either:
@@ -83,7 +83,7 @@ Have **branched** duct. It could be either:
 	-  **Brunner's gl.of duodenum**.
 3. Compound **tubuloalveolar** gl.: 
 	- **submandibular salivary gl**
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121214738.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121214849.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121214856.png]] 
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121214738.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121214849.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121214856.png]] 
 
 
 # Classification based on shape of secretory unit 
@@ -101,6 +101,8 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 
 
 # Classification based on nature of secretion 
+**acinus** (pl. acini) glands are always **alveolar**. 
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231123233136.png]]
 ## Serous glands 
 - Secrete **protein-rich watery secretion**. 
 - The *secretory portion* is **serous acinus**, which is lined by **pyramidal shaped columnar epithelium**.
@@ -108,7 +110,7 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 - **large** amount of **rough** endoplasmic reticulum RER( gives the cell **basophilic** stain *Purple* ),
 - well developed **Golgi** complex,
 -  many **secretory vesicles** in the apical region of cell
-- ![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121221741.png|**|600x300]]
+- ![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121221741.png|**|600x300]]
 ## Mucous glands 
 - *Mucous acinus has wider lumen than serous acinus* 
 - **Secrete thick, mucoid** secretion. 
@@ -116,13 +118,13 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 - Mucous cell has **flat basal nucleus**,
 - cytoplasm is rich in **mucinogen granules**. 
 - When stained with H&E stain, mucous cells appear empty because mucin is removed during preparation of slide. .
-- ![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121222429.png|*|600x300]]
+- ![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121222429.png|*|600x300]]
 ## Mixed  Glands 
 - Secrete both **mucus and enzyme- rich watery secretion**. 
-- The secretory portion is **mucous acinus with serous demilunes**. 
+- The secretory portion is **mucous acinus with serous demilunes هلال او قبعة**. 
 	- Mucous acinus is capped with serous cells to form serous demilunes. 
 	- Mixed acinus is lined by both mucous and serous cells
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121223130.png|**|600x300]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121223130.png|**|600x300]]
 
 |           | Serous Cells       | Mucous Cells      |
 | --------- | ------------------ | ----------------- |
@@ -141,11 +143,11 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 | E.g.       | parotoid                         | SubLingual                        |
 
 #  Classification based on mode of secretion
-![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121230702.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121230713.png]]![[MD/1 year/anatomy/HDTD/Resources/Pasted image 20231121230727.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121230702.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121230713.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121230727.png]]
 ## Merocrine/eccrine glands
 In these glands the secretion is found within **vesicles**. The secretory material is secreted by **exocytosis**, *when the membrane of secretory vesicle **fuses** with apical surface of cell and get out*. 
 It is the most common type of glands. Found in **pancreas**, and **merocrine sweat glands**.
-## Apocrine glands
+## Apocrine glands (apo-apical)
 The secretory product is synthesized in the **apical** portion of the cell, and **both** this part with the **secretion** are **shed off**.
 E.g. :  **lactating mammary** gland, **apocrine sweat gland**, **ceruminous[^2] glands of external ear**
 
@@ -175,6 +177,6 @@ is an Excessive **holocrine** secretion of **sebum** and **keratin** triggered b
 ## Benign and malignant tumors
 Benign and malignant tumors **arise from most types of epithelial tissues**. 
 ## Malignant tumor 
- malignant tumor is called **carcinoma**, and if *arise from gland* called **adenocarcinoma**
+ malignant tumor is called **carcinoma**, and if *arise from gland* called **adenocarcinoma** adeno(gland)
 ## Neoplasia 
- Neoplasia: is an abnormal growth (**dysplasia**) of epithelial cells.
+ Neoplasia: is an abnormal growth and **dysplasia**(change of tissue type) of epithelial cells.
