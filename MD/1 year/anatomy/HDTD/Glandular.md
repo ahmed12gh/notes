@@ -20,7 +20,7 @@ Is a specialized group of cells that **synthesize** and **secrete** substances o
 
 # Number of Cells 
 ## Unicellular 
-Consists of **isolated** glandular cells as goblet cells. These cell lie among lining epithelium of **intestine** or **respiratory** epithelium.
+Consists of **isolated** glandular cells as goblet cells. These cell lie among lining epithelium of **intestine** or **respiratory** epithelium(*==pseudostratified columnar epithelium cilited with goblet gland==*).
 
 **Goblet** cell has a **cup shape** with **narrow basal stem**. The apical cytoplasm has numerous **secretory vesicles** filled with **mucus**, and nucleus is **flat**, and pushed to the **basal** side of the cell 
 In ordinary H&E stain[^1], apical portion of goblet cell appears **empty**, because *mucus is removed during preparation of tissue slide*. It is demonstrated better with **PAS** stain (**Periodic acid Schiff** special stain for mucin).

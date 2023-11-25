@@ -53,7 +53,7 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 	- They are normally long muscles which cause **large movements**, and are **not** very strong but have **good endurance**.
 	- Eg.  *Sartorius* and *Sternocleidomastoid*
 1. ==**Pennate Muscles**== :
-	- Pennate muscles have a **large number of muscle fibers** per unit and so are **very strong**, but **tire easily**.
+	- Pennate muscles have a **large number of muscle fibers** per unit and so are **very strong**, but **tire easily**.Their Shape resamable  a feather.
 	1. *==Uni-pennate==*: These muscles have their fibers arranged to insert in a **diagonal** direction onto the **tendon**, *which allows great strength*. 
 		-  The *Lumbricals* (deep hand muscles) 
 		- *Extensor Digitorum Communis* (wrist and finger extensor)
@@ -66,7 +66,7 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 	- these muscles are more spindle- shaped, 
 	- with the muscle belly being wider than the origin and insertion.
 	- Examples are, **Biceps Brachii** and **Psoas major**.
-	
+![[MD/1 year/anatomy/HSF/res/Pasted image 20231125224019.png|**|500x500]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230345.png|400]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230521.png|400x300]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230618.png|400x300]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230751.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230922.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232206.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232358.png|300x200]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232128.png|300x300]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232722.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232903.png|300x300]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124233127.png]]

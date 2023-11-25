@@ -70,8 +70,8 @@ bones are held together by **capsule** and **ligaments** . The structure of thes
 		- has **phagocytic cells** that remove *microbes* and debris that *result from tear in the joint*. 
 	- When a synovial joint is **immobile** the synovial fluid becomes **gel-like** but as joint *movement increases the fluid becomes less viscous*
 4. Many synovial joints also contain **accessory ligaments** 
-	- extra capsular ligaments . lies outside the articular capsule
-	- intra-capsular ligaments.  lies within the articular capsule **but are excluded from the synovial cavity** by **folds of the synovial membrane**
+	- *extra capsular* ligaments . lies outside the articular capsule
+	- *intra-capsular* ligaments.  lies within the articular capsule **but are excluded from the synovial cavity** by **folds of the synovial membrane**
 	
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231116223702.png|400|**]]
 
