@@ -32,7 +32,10 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 - Each skeletal muscle has an *Origin*  (the attachment to a fixed bone, usually the proximal attachment) and *Insertion*, Has *belly* and *tendon*
 - Each muscle consist of 
 	- **Bundles** called *Fascicles* 
-		- which consists of **Fibers** covered by **connective tissue investments** (*Epimysium*, *Perimysium*, *Endomysium*) 
+		- which consists of **Fibers** covered by **connective tissue investments** (
+			- *Epimysium*, 
+			- *Perimysium*,
+			- *Endomysium* 
 		- **==rich with blood supply, innervated by nerves and synapses==**[^1] responsible for the contraction so called the **Neuromuscular system**
 
 [^1]:the points of contact between neurons where information is passed from one neuron to the next

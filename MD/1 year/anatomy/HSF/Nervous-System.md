@@ -45,9 +45,13 @@ The Spinal Cord Transmits Signals to and from the Brain and Commands Reflexes
 - Sacral region  S1 - S5
 
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125214728.png|*|400x400]]
+
+thumb  and the pinky sensation is from the c2 and c8 
+
 ##  The Brain 
 In some ways, the human brain resembles a computer. But in addition to logical processing, it is capable of complex development, learning, self-awareness, emotion, and creativity.
 - The front and back views reveal the **longitudinal fissureالشق** dividing the brain into *two hemispheres* 
+- The surface of the *cerebrum* is folded into **ridges and grooves**. The *cerebellum* lies beneath the cerebrum. The *brainstem* and top of the *spinal cord* are also visible
 - 12 pairs of *cranial nerves* connect the brain to **eyes, ears**, and other **sensory organs** and to **head** and **neck muscles** 
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125220511.png|**]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125221152.png]]

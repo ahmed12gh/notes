@@ -6,7 +6,7 @@ The ribosome  ,help in protein synthesis ,they reads the messenger RNA (mRNA) se
 *==Glycolipids : they are **only** found on the **extracellular** side of the lipid bilayer==* : 
 carbohydrates  found to be **attached** to the lipids or proteins on the **extracellular** side of the membrane, leading to the formation of **glycolipids** and **glycoproteins**
 
-*==why the protein % is higher than lipids % in cell membrane  although its mostly seen to be consisting of lipids==* 
+*==why the protein % is higher than lipids % in cell membrane  although its mostly seen to be consisting of lipids==*  
 This higher proportion of proteins is primarily due to their diverse roles in cell membrane function
 Since proteins are much larger than lipids, this percentage corresponds to about one protein molecule per every 50 to 100 molecules of lipid 
 
@@ -17,3 +17,23 @@ Since proteins are much larger than lipids, this percentage corresponds to about
 4. Condyloid[^2] : in the joints of the wrist and fingers
 5. Saddle : thumb joint
 6. Ball-and-socket joints  : shoulder and hip joints
+
+
+
+# Write 3 main characteristic features of connective tissue 
+1. consist of cells and ECM 
+2. have a good blood supply and  can usually  divide 
+3. Can be flexible or rigid in nature
+# Write 3 main differences between epithelial tissue and connective tissue .
+1. Cells have spaces between them filled with Economy   | a layer of **tightly adherent** cells
+2. have a good blood supply | avascular  
+3. different  types of cells  | single cell type 
+
+
+# Why is osmosis important for
+the cell??
+
+# Why is osmosis important for
+the cell??
+
+# Why is osmosis important for the cell??

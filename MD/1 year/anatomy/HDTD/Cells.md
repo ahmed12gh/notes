@@ -32,7 +32,7 @@ The **cell wall** forms a **hard structure** of **uniform thickness** around the
 
 
 # Eukaryotic E.G. Animal Cell 
-![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120214045.png]]
+![[MD/1 year/anatomy/HDTD/res/Pasted image 20231120214045.png]]![[MD/1 year/anatomy/HDTD/res/Pasted image 20231128152338.png]]
 Components : 
 1. Cell Membrane.
 2. Nucleus.

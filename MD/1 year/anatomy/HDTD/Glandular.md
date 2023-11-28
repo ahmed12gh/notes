@@ -101,7 +101,7 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 
 
 # Classification based on nature of secretion 
-**acinus** (pl. acini) glands are always **alveolar**. 
+**acinus** (pl. acini) glands are always **alveolar**. or not i *==DONT KNOW==*
 ![[MD/1 year/anatomy/HDTD/res/Pasted image 20231123233136.png]]
 ## Serous glands 
 - Secrete **protein-rich watery secretion**. 
@@ -124,6 +124,7 @@ The secretory portion is **spherical** (round in cross section). When acinar gla
 - The secretory portion is **mucous acinus with serous demilunes هلال او قبعة**. 
 	- Mucous acinus is capped with serous cells to form serous demilunes. 
 	- Mixed acinus is lined by both mucous and serous cells
+
 ![[MD/1 year/anatomy/HDTD/res/Pasted image 20231121223130.png|**|600x300]]
 
 |           | Serous Cells       | Mucous Cells      |
