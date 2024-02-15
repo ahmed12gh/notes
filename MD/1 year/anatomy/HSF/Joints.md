@@ -87,10 +87,15 @@ The nerves that supply a joint are the same as those that supply the skeletal mu
 
 1. Planer : Planar joints are found in the carpal bones in the hand and the tarsal bones of the foot, as well as between vertebrae
 2. Hinge : elbow
-3. Pivot  : first and second vertebrae of the neck
-4. Condyloid[^2] : in the joints of the wrist and fingers
-5. Saddle : thumb joint
-6. Ball-and-socket joints  : shoulder and hip joints 
+3. Pivot  : 
+	- atlas and the axis (first and second cervical vertebrae),
+	- Pivot joints also provide for the twisting movement of the bones of the forearm ([radius](https://www.britannica.com/science/radius-bone) and [ulna](https://www.britannica.com/science/ulna)) against the upper [arm](https://www.britannica.com/science/arm), a movement used, for instance, in unscrewing the lid of a jar.
+	- ![[MD/1 year/anatomy/HSF/res/Pasted image 20231130122026.png|450]]
+1. Condyloid[^2]  ellipsoid : in the joints of the wrist and fingers
+2. Saddle : thumb joint *trapezium*
+3. Ball-and-socket joints  : shoulder and hip joints  
+	- *Shoulder joint are different from hip joint due to the socket covering more area limiting the movement in Hip joint Unlike Shoulder joint which has a  wide ranger of motion*
+	
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155640.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155358.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155404.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155339.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155345.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155330.png]] 
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231123155655.png|*|500x500]]
 

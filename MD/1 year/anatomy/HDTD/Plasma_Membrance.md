@@ -73,6 +73,7 @@ lung explanted by cystic fibrosis
 
 ## Diseases with Unknown Causes: 
 ***==Alzheimer's disease==*** is a very serious condition that involves the **build-up of plaques[^1]** in the **brain**. While we don't completely understand what causes the initial formation of these plaques, some evidence suggests that dysfunctional membrane proteins may play a role. This is further supported by **evidence showing that unhealthy cholesterol levels** are often found in Alzheimer's patients. Cholesterol is an important part of the cell membrane.
+In alzheimer's disease,it was found that there is an accumulation of TAU proteins which exist normally in microtubules.TAU protein aggregates into neurofibrillary tangles which disrupting the function of microtubules and finally cell death.
 
 ![[MD/1 year/anatomy/HDTD/res/Pasted image 20231128152228.png]]
 

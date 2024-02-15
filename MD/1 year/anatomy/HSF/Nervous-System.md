@@ -2,13 +2,16 @@ The nervous system is the most complex body system !! Constantly alive with elec
 It is so vast and complex that, an estimate is that all the individual nerves from one body, joined end to end, could reach around the world two and a half times.
 - The *Brain* and *Spinal Cord* are the **Central Nervous System**.
 - *Nerves* and *Sensory Organs* Make Up the **Peripheral Nervous System**. 
-	1. Automatic : self regulated internal organs and glands 
+	1. Autonomic  *==motor neurons==* : self regulated internal organs and glands 
 		- sympathic : arousing
 		- parasympathic : calming
-	2. Somatic : voluntary  
+	2. Somatic  *==motor neurons==* : voluntary  
 
 # Central Nervous System 
 The Spinal Cord Transmits Signals to and from the Brain and Commands Reflexes
+## Gray & White Matter 
+gray matter and white are found in CNS only 
+*gray matter* consist of cell bodies of nervous cells and while *white matter* primarily consists of **myelinated** axons therefore they are **whitish in color**.
 ## Spinal Cord 
 
 1. The spinal cord is an 
@@ -31,6 +34,9 @@ The Spinal Cord Transmits Signals to and from the Brain and Commands Reflexes
 	- The plexuses send signals along secondary nerve branches to
 		- areas of complex function or 
 		- movement 
+- 2 roots of spinal nerves emrges from the a vertebrae that then merges into one : 
+	- ventral spinal nerves  : *==motor neurons==*   
+	- dorsal spinal nerves   : *==sensory neurons==* 
 
 ### What Is a Dermatome 
 - A dermatome is the **area of the skin** of the human anatomy that is *mainly supplied by branches of a **single** spinal sensory nerve root*
@@ -46,7 +52,12 @@ The Spinal Cord Transmits Signals to and from the Brain and Commands Reflexes
 
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125214728.png|*|400x400]]
 
-thumb  and the pinky sensation is from the c2 and c8 
+thumb  and the pinky sensation is from the c7 and c8 
+
+### what is the difference between Dermatome and subcutaneous nerves 
+dermatomes are specific areas of skin that receive sensory information from a single spinal nerve, while subcutaneous nerves are nerves that run through the subcutaneous tissue and provide sensation, motor control, and regulate blood flow to the skin.
+Subcutaneous nerves are branches of major peripheral nerves that supply sensation, motor control, and autonomic function to the skin and underlying tissues. They are located in the subcutaneous tissue
+
 
 ##  The Brain 
 In some ways, the human brain resembles a computer. But in addition to logical processing, it is capable of complex development, learning, self-awareness, emotion, and creativity.
@@ -59,6 +70,9 @@ In some ways, the human brain resembles a computer. But in addition to logical p
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125220458.png]]
 
 # Peripheral Nervous System 
+## ganglion
+is a collection of **neuronal bodies** found in the **somatic** and **autonomic** branches of the peripheral nervous system (*PNS*).
+
 ## Sight, Sound, Smell, Taste, and Touch:
 The nervous system must receive and process information about the world outside in order to react, **communicate**, and **keep the body healthy and safe**. Much of this information comes through the **sensory organs**: the eyes, ears, nose, tongue, and skin.
 Specialized cells and tissues within these organs *receive raw stimuli* and *translate them into signals* the nervous system can use. *Nerves relay the signals* to the **brain**, which interprets them as sight (vision), sound (hearing), smell (olfaction), taste (gustation), and touch (tactile perception).

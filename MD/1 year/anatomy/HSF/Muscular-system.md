@@ -20,7 +20,7 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 	- located in various **internal structures** including the *digestive tract*, *uterus* and *blood vessels* such as arteries. 
 	- Smooth muscle is arranged in **layered sheets** that contract in **waves** along the **length** of the structure.
 	- Another common term is **involuntary muscle**, since the motion of smooth muscle happens without our conscious awareness
-1. **Cardiac muscle** : the muscle specific to the heart. The heart contracts and relaxes without our conscious awareness 
+1. **Cardiac muscle** : the muscle specific to the ==heart and the arteries and viens emrging from it== , The heart contracts and relaxes without our conscious awareness 
 
 # Skeletal Muscles 
 - skeletal muscles are connected to the skeleton,
@@ -29,14 +29,14 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 - Muscles are always attached at *two or more places*.
 	- When the muscle **contracts**, the attachment points are *pulled closer together*;
 	- when it **relaxes**, the attachment points *move apart* 
-- Each skeletal muscle has an *Origin*  (the attachment to a fixed bone, usually the proximal attachment) and *Insertion*, Has *belly* and *tendon*
+- Each skeletal muscle has an *Origin*  (the attachment to a fixed bone, usually the proximal attachment) and *Insertion*, Has *belly* and *tendon* not all muscles have 2 tondons .
 - Each muscle consist of 
 	- **Bundles** called *Fascicles* 
-		- which consists of **Fibers** covered by **connective tissue investments** (
-			- *Epimysium*, 
-			- *Perimysium*,
-			- *Endomysium* 
-		- **==rich with blood supply, innervated by nerves and synapses==**[^1] responsible for the contraction so called the **Neuromuscular system**
+		- which consists of **Fibers=cells** covered by **connective tissue investments** (
+			- *Epimysium* : cover muscle totaly
+			- *Perimysium*  :cover a fascicle 
+			- *Endomysium*  : cover single muscle cell or fiber 
+		- rich with blood supply, innervated by nerves and synapses[^1] responsible for the contraction so called the Neuromuscular system
 
 [^1]:the points of contact between neurons where information is passed from one neuron to the next
 
@@ -69,6 +69,7 @@ Muscles work by either contracting or relaxing to cause movement. This movement 
 	- these muscles are more spindle- shaped, 
 	- with the muscle belly being wider than the origin and insertion.
 	- Examples are, **Biceps Brachii** and **Psoas major**.
+	
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231125224019.png|**|500x500]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230345.png|400]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230521.png|400x300]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230618.png|400x300]]
 ![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230751.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124230922.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232206.png]]![[MD/1 year/anatomy/HSF/res/Pasted image 20231124232358.png|300x200]]
